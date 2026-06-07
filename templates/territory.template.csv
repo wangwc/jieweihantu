@@ -1,0 +1,3 @@
+id,title,yearStart,yearEnd,controlType,longitude,latitude,evidenceIds,note,demoOnly
+territory-demo-001,示例直接行政点,1400,1644,直接行政区,118.78,32.04,ev-demo-001,示例点位，不代表现代边界,true
+territory-demo-002,示例航海影响点,1405,1433,航海影响区,100.5,13.75,ev-demo-002,航海影响不等于直接统治,true

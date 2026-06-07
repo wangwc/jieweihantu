@@ -1,0 +1,263 @@
+[
+  {
+    "id": "lead-001",
+    "platform": "YouTube",
+    "title": "万历不上朝争议视频线索",
+    "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "author": "示例创作者",
+    "publishDate": "2026-01-12",
+    "extractedClaims": [
+      "万历不上朝是否等于不理政"
+    ],
+    "relatedClaimIds": [
+      "claim-wanli-court"
+    ],
+    "status": "已拆解",
+    "riskNote": "D级视频线索，不能直接作为历史结论。",
+    "reviewerNote": "需回查明代奏疏、实录和现代研究。",
+    "thumbnailUrl": "https://placehold.co/640x360/171412/F7F1E8?text=YouTube+Lead",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/dQw4w9WgXcQ",
+    "mediaAssets": [
+      {
+        "id": "lead-media-001",
+        "kind": "video",
+        "title": "视频线索嵌入演示",
+        "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+        "thumbnailUrl": "https://placehold.co/640x360/171412/F7F1E8?text=YouTube+Lead",
+        "embedUrl": "https://www.youtube-nocookie.com/embed/dQw4w9WgXcQ",
+        "provider": "YouTube",
+        "caption": "公开嵌入演示。",
+        "licenseNote": "版权归原平台和作者；不下载、不抓取。",
+        "accessNote": "公开嵌入链接。",
+        "demoOnly": true
+      }
+    ],
+    "platformPolicyNote": "仅使用公开嵌入能力，不绕过平台限制。",
+    "demoOnly": true,
+    "capturedAt": "2026-06-07T11:30:00+08:00",
+    "rawSummary": "???????????????????????????????",
+    "mentionedSources": [],
+    "riskLevel": "low",
+    "createdAt": "2026-06-07T11:30:00+08:00",
+    "updatedAt": "2026-06-07T11:30:00+08:00"
+  },
+  {
+    "id": "lead-002",
+    "platform": "B站",
+    "title": "永乐远航地图观点线索",
+    "url": "https://www.bilibili.com/video/BV1xx411c7mD",
+    "author": "示例UP主",
+    "publishDate": "2026-02-03",
+    "extractedClaims": [
+      "永乐疆域与远航是否被低估"
+    ],
+    "relatedClaimIds": [
+      "claim-yongle-maritime"
+    ],
+    "status": "待核验",
+    "riskNote": "D级线索，不得直接进入结论。",
+    "reviewerNote": "需查舆图、海外记录和开放数据库。",
+    "thumbnailUrl": "https://placehold.co/640x360/171412/B08A45?text=Bilibili+Lead",
+    "embedUrl": "https://player.bilibili.com/player.html?bvid=BV1xx411c7mD&page=1",
+    "mediaAssets": [
+      {
+        "id": "lead-media-002",
+        "kind": "video",
+        "title": "B站线索嵌入演示",
+        "url": "https://www.bilibili.com/video/BV1xx411c7mD",
+        "thumbnailUrl": "https://placehold.co/640x360/171412/B08A45?text=Bilibili+Lead",
+        "embedUrl": "https://player.bilibili.com/player.html?bvid=BV1xx411c7mD&page=1",
+        "provider": "Bilibili",
+        "caption": "公开播放器演示。",
+        "licenseNote": "版权归原平台和作者。",
+        "accessNote": "公开播放器嵌入。",
+        "demoOnly": true
+      }
+    ],
+    "platformPolicyNote": "仅保留链接和公开嵌入地址。",
+    "demoOnly": true,
+    "capturedAt": "2026-06-07T11:30:00+08:00",
+    "rawSummary": "???????????????????????????????",
+    "mentionedSources": [],
+    "riskLevel": "low",
+    "createdAt": "2026-06-07T11:30:00+08:00",
+    "updatedAt": "2026-06-07T11:30:00+08:00"
+  },
+  {
+    "id": "lead-003",
+    "platform": "知乎",
+    "title": "正德荒唐叙事文章线索",
+    "url": "https://example.org/zhihu/zhengde",
+    "author": "示例作者",
+    "publishDate": "2026-03-18",
+    "extractedClaims": [
+      "正德荒唐叙事是否需要拆分"
+    ],
+    "relatedClaimIds": [
+      "claim-zhengde-absurd"
+    ],
+    "status": "已找到证据",
+    "riskNote": "网络观点只作为索引线索。",
+    "reviewerNote": "已转入S/Q/C级材料查找。",
+    "thumbnailUrl": "https://placehold.co/640x360/F7F1E8/9E2F1C?text=Article+Lead",
+    "mediaAssets": [],
+    "platformPolicyNote": "不抓取全文，仅记录人工录入摘要和原链接。",
+    "demoOnly": true,
+    "capturedAt": "2026-06-07T11:30:00+08:00",
+    "rawSummary": "???????????????????????????????",
+    "mentionedSources": [],
+    "riskLevel": "low",
+    "createdAt": "2026-06-07T11:30:00+08:00",
+    "updatedAt": "2026-06-07T11:30:00+08:00"
+  },
+  {
+    "id": "lead-004",
+    "platform": "公众号",
+    "title": "崇祯亡国责任文章线索",
+    "url": "https://example.org/wechat/chongzhen",
+    "author": "示例公众号",
+    "publishDate": "2026-04-01",
+    "extractedClaims": [
+      "崇祯亡国责任是否被过度简化"
+    ],
+    "relatedClaimIds": [
+      "claim-chongzhen-collapse"
+    ],
+    "status": "已拆解",
+    "riskNote": "需防止情绪化归因。",
+    "reviewerNote": "拆解为财政、军制、灾荒、党争变量。",
+    "thumbnailUrl": "https://placehold.co/640x360/FFFDF8/1F1B16?text=Web+Article",
+    "mediaAssets": [],
+    "platformPolicyNote": "仅记录公开链接，不绕过访问限制。",
+    "demoOnly": true,
+    "capturedAt": "2026-06-07T11:30:00+08:00",
+    "rawSummary": "???????????????????????????????",
+    "mentionedSources": [],
+    "riskLevel": "low",
+    "createdAt": "2026-06-07T11:30:00+08:00",
+    "updatedAt": "2026-06-07T11:30:00+08:00"
+  },
+  {
+    "id": "lead-005",
+    "platform": "论坛",
+    "title": "疆域控制层级讨论线索",
+    "url": "https://example.org/forum/territory",
+    "author": "论坛用户",
+    "publishDate": "2026-04-12",
+    "extractedClaims": [
+      "明朝疆域控制层级如何区分"
+    ],
+    "relatedClaimIds": [
+      "claim-territory-layers"
+    ],
+    "status": "暂存",
+    "riskNote": "论坛内容证据等级低，仅暂存。",
+    "reviewerNote": "可作为术语和争议点收集入口。",
+    "thumbnailUrl": "https://placehold.co/640x360/DDD2C3/1F1B16?text=Forum+Lead",
+    "mediaAssets": [],
+    "platformPolicyNote": "不采集登录后内容。",
+    "demoOnly": true,
+    "capturedAt": "2026-06-07T11:30:00+08:00",
+    "rawSummary": "???????????????????????????????",
+    "mentionedSources": [],
+    "riskLevel": "low",
+    "createdAt": "2026-06-07T11:30:00+08:00",
+    "updatedAt": "2026-06-07T11:30:00+08:00"
+  },
+  {
+    "id": "lead-006",
+    "platform": "抖音",
+    "title": "天启木匠标签短视频线索",
+    "url": "https://example.org/douyin/tianqi",
+    "author": "短视频作者",
+    "publishDate": "2026-05-06",
+    "extractedClaims": [
+      "天启木匠皇帝标签是否过度脸谱化"
+    ],
+    "relatedClaimIds": [
+      "claim-tianqi-carpenter"
+    ],
+    "status": "待核验",
+    "riskNote": "短视频平台内容只作为线索。",
+    "reviewerNote": "不嵌入不可公开播放内容。",
+    "thumbnailUrl": "https://placehold.co/640x360/171412/DDD2C3?text=Short+Video",
+    "mediaAssets": [],
+    "platformPolicyNote": "不绕过平台播放、登录或风控限制。",
+    "demoOnly": true,
+    "capturedAt": "2026-06-07T11:30:00+08:00",
+    "rawSummary": "???????????????????????????????",
+    "mentionedSources": [],
+    "riskLevel": "low",
+    "createdAt": "2026-06-07T11:30:00+08:00",
+    "updatedAt": "2026-06-07T11:30:00+08:00"
+  },
+  {
+    "id": "lead-007",
+    "platform": "其他",
+    "title": "博物馆开放图像入口线索",
+    "url": "https://example.org/museum/map",
+    "author": "开放馆藏平台",
+    "publishDate": "2026-05-20",
+    "extractedClaims": [
+      "永乐疆域与远航是否被低估",
+      "明朝疆域控制层级如何区分"
+    ],
+    "relatedClaimIds": [
+      "claim-yongle-maritime",
+      "claim-territory-layers"
+    ],
+    "status": "已找到证据",
+    "riskNote": "需确认图像许可。",
+    "reviewerNote": "适合转入Source和Evidence。",
+    "thumbnailUrl": "https://placehold.co/640x360/DDD2C3/1F1B16?text=Museum+Image",
+    "mediaAssets": [
+      {
+        "id": "lead-media-007",
+        "kind": "image",
+        "title": "博物馆图像入口占位",
+        "url": "https://example.org/museum/map",
+        "thumbnailUrl": "https://placehold.co/640x360/DDD2C3/1F1B16?text=Museum+Image",
+        "provider": "Museum",
+        "caption": "开放馆藏入口演示。",
+        "licenseNote": "真实接入需记录馆方许可。",
+        "accessNote": "开放馆藏页面。",
+        "demoOnly": true
+      }
+    ],
+    "platformPolicyNote": "仅记录公开开放入口。",
+    "demoOnly": true,
+    "capturedAt": "2026-06-07T11:30:00+08:00",
+    "rawSummary": "???????????????????????????????",
+    "mentionedSources": [],
+    "riskLevel": "low",
+    "createdAt": "2026-06-07T11:30:00+08:00",
+    "updatedAt": "2026-06-07T11:30:00+08:00"
+  },
+  {
+    "id": "lead-008",
+    "platform": "西瓜视频",
+    "title": "晚明财政观点视频线索",
+    "url": "https://example.org/xigua/fiscal",
+    "author": "视频作者",
+    "publishDate": "2026-06-01",
+    "extractedClaims": [
+      "崇祯亡国责任是否被过度简化"
+    ],
+    "relatedClaimIds": [
+      "claim-chongzhen-collapse"
+    ],
+    "status": "已驳回",
+    "riskNote": "缺少出处，暂不进入证据链。",
+    "reviewerNote": "保留为X级风险案例。",
+    "thumbnailUrl": "https://placehold.co/640x360/8B2C2C/FFFDF8?text=Risk+Lead",
+    "mediaAssets": [],
+    "platformPolicyNote": "不采集平台限制内容。",
+    "demoOnly": true,
+    "capturedAt": "2026-06-07T11:30:00+08:00",
+    "rawSummary": "???????????????????????????????",
+    "mentionedSources": [],
+    "riskLevel": "low",
+    "createdAt": "2026-06-07T11:30:00+08:00",
+    "updatedAt": "2026-06-07T11:30:00+08:00"
+  }
+]

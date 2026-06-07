@@ -1,0 +1,3 @@
+id,title,artifactType,sourceLayer,institution,url,licenseNote,citation,relatedClaimIds,demoOnly
+artifact-demo-001,舆图图像资料占位,舆图,A,示例博物馆,https://example.org/museum/map,示例许可说明：真实接入需确认馆方授权,待补正式引用,claim-yongle-maritime,true
+artifact-demo-002,火器文物资料占位,器物,A,示例馆藏机构,https://example.org/museum/object,示例许可说明：不伪造馆藏编号,待补正式引用,,true

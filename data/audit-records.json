@@ -1,0 +1,31 @@
+[
+  {
+    "id": "audit-demo-001",
+    "entityType": "evidence",
+    "entityId": "ev-wanli-001",
+    "action": "update",
+    "before": null,
+    "after": {
+      "verificationStatus": "??"
+    },
+    "note": "??????????????????????",
+    "reviewer": "system-demo",
+    "createdAt": "2026-06-07T11:30:00+08:00",
+    "demoOnly": true
+  },
+  {
+    "id": "audit-demo-002",
+    "entityType": "lead",
+    "entityId": "lead-008",
+    "action": "reject",
+    "before": null,
+    "after": {
+      "riskLevel": "high",
+      "status": "???"
+    },
+    "note": "?????????????????????",
+    "reviewer": "system-demo",
+    "createdAt": "2026-06-07T11:30:00+08:00",
+    "demoOnly": true
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "id": "batch-demo-001",
+    "importType": "manual",
+    "entityType": "source",
+    "fileName": "?????????",
+    "importedAt": "2026-06-07T11:30:00+08:00",
+    "importedBy": "system-demo",
+    "totalRows": 10,
+    "successRows": 10,
+    "failedRows": 0,
+    "warnings": [
+      "????????? ImportBatch ???????????"
+    ],
+    "errors": [],
+    "status": "success",
+    "rawFilePath": "data/sources.json",
+    "resultFilePath": "data/import-batches.json",
+    "demoOnly": true
+  },
+  {
+    "id": "batch-demo-002",
+    "importType": "manual",
+    "entityType": "evidence",
+    "fileName": "?????????",
+    "importedAt": "2026-06-07T11:30:00+08:00",
+    "importedBy": "system-demo",
+    "totalRows": 18,
+    "successRows": 18,
+    "failedRows": 0,
+    "warnings": [
+      "?? citation ? locationRef ???????????????"
+    ],
+    "errors": [],
+    "status": "partial_success",
+    "rawFilePath": "data/evidence.json",
+    "resultFilePath": "data/import-batches.json",
+    "demoOnly": true
+  }
+]

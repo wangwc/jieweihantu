@@ -1,0 +1,3 @@
+id,title,topic,emperor,reignTitle,yearStart,yearEnd,qingNarrativeText,qingSourceTitle,volume,originalText,url,note,counterQuestion,currentAssessment,evidenceIds,leadIds,sourceIds,conclusion,confidenceLevel,controversy,reviewStatus,reviewNotes,tags,demoOnly
+claim-demo-001,示例主张：清修叙事是否需要重估,皇帝评价,万历帝,万历,1587,1620,示例清修叙事摘要,清修叙事待核验对象,待核验条目,待录入原文,https://example.org/qing/demo,Q级待核验对象，不作为事实依据,该叙事能否被S/A/B/C证据支持或反驳,暂无法判断,,lead-demo-002,source-demo-qing-target,待人工审核,C,50,draft,示例主张，仅用于模板演示,示例|待核验,true
+claim-demo-002,示例主张：疆域控制层级如何表达,疆域,永乐帝,永乐,1405,1433,示例疆域叙事摘要,后世概括性叙事,待核验条目,待录入原文,https://example.org/qing/territory-demo,需区分控制层级,是否应区分直接行政、军事控制和航海影响,暂无法判断,,lead-demo-001,source-demo-ming-records,待人工审核,B,60,draft,示例主张，仅用于模板演示,疆域|地图,true

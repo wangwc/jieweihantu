@@ -1,0 +1,3 @@
+id,title,sourceType,sourceLayer,institution,author,dynastyOrDate,url,homepageUrl,accessMethod,licenseNote,citationFormat,reliabilityNote,allowedUsage,importMethod,reviewRequired,status,demoOnly
+source-demo-ming-records,明代实录开放入口占位,明代实录,S,资料整理机构,明代官方记录,明代,https://example.org/ming-records,https://example.org/ming-records,open-data,示例许可说明：真实导入需确认版本与授权,待补正式引用格式,S级优先材料但需校勘,遵守许可后可进入证据链,open-data,true,pending,true
+source-demo-qing-target,清修明史叙事对象占位,清修明史,Q,清代官修机构,待录入,清代,https://example.org/qing,https://example.org/qing,manual,示例许可说明：记录版本来源,待补正式引用格式,Q级待核验对象不作为事实依据,只能作为待核验对象,manual,true,pending,true

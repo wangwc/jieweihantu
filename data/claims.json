@@ -1,0 +1,292 @@
+[
+  {
+    "id": "claim-wanli-court",
+    "title": "万历不上朝是否等于不理政",
+    "topic": "皇帝评价",
+    "period": {
+      "emperor": "万历帝",
+      "reignTitle": "万历",
+      "yearStart": 1587,
+      "yearEnd": 1620
+    },
+    "qingNarrative": {
+      "text": "清修叙事常将万历后期概括为长期怠政。",
+      "sourceTitle": "清修《明史》",
+      "volume": "待核验条目",
+      "originalText": "待录入原文",
+      "url": "https://example.org/qing-narrative/wanli",
+      "note": "Q级待核验对象，不作为事实依据。"
+    },
+    "counterQuestion": "不上朝是否可以直接推出行政系统停摆，是否存在奏疏、票拟、财政与边防调度材料可对照？",
+    "currentAssessment": "多源证据存在冲突",
+    "evidenceIds": [
+      "ev-wanli-001",
+      "ev-wanli-002",
+      "ev-wanli-003"
+    ],
+    "conclusion": "当前仅能形成问题框架：需区分朝会缺席、内阁运行、财政调拨和军事决策，不宜直接等同。",
+    "confidenceLevel": "C",
+    "controversy": 88,
+    "tags": [
+      "万历",
+      "怠政叙事",
+      "内阁",
+      "奏疏"
+    ],
+    "demoOnly": true,
+    "leadIds": [
+      "lead-001"
+    ],
+    "sourceIds": [
+      "source-001",
+      "source-008",
+      "source-004"
+    ],
+    "reviewStatus": "pending_review",
+    "reviewNotes": "示例主张待进入二阶段人工审核；当前结论仅用于结构演示。",
+    "createdAt": "2026-06-07T11:30:00+08:00",
+    "updatedAt": "2026-06-07T11:30:00+08:00"
+  },
+  {
+    "id": "claim-tianqi-carpenter",
+    "title": "天启木匠皇帝标签是否过度脸谱化",
+    "topic": "皇帝评价",
+    "period": {
+      "emperor": "天启帝",
+      "reignTitle": "天启",
+      "yearStart": 1621,
+      "yearEnd": 1627
+    },
+    "qingNarrative": {
+      "text": "清修叙事与后世通俗叙述常以木匠标签概括天启朝。",
+      "sourceTitle": "清修《明史》及后出叙事",
+      "volume": "待核验条目",
+      "originalText": "待录入原文",
+      "url": "https://example.org/qing-narrative/tianqi",
+      "note": "需拆分个人兴趣、朝政结构与党争叙事。"
+    },
+    "counterQuestion": "“木匠”标签能否解释天启朝制度运转、边事处置和阉党政治的复杂性？",
+    "currentAssessment": "清修叙事部分成立",
+    "evidenceIds": [
+      "ev-tianqi-001",
+      "ev-tianqi-002",
+      "ev-tianqi-003"
+    ],
+    "conclusion": "标签可能有事实线索，但不足以承担完整政治评价。",
+    "confidenceLevel": "C",
+    "controversy": 76,
+    "tags": [
+      "天启",
+      "标签化",
+      "阉党",
+      "宫廷技艺"
+    ],
+    "demoOnly": true,
+    "leadIds": [
+      "lead-006"
+    ],
+    "sourceIds": [
+      "source-004",
+      "source-006",
+      "source-008"
+    ],
+    "reviewStatus": "pending_review",
+    "reviewNotes": "示例主张待进入二阶段人工审核；当前结论仅用于结构演示。",
+    "createdAt": "2026-06-07T11:30:00+08:00",
+    "updatedAt": "2026-06-07T11:30:00+08:00"
+  },
+  {
+    "id": "claim-zhengde-absurd",
+    "title": "正德荒唐叙事是否需要拆分",
+    "topic": "争议事件",
+    "period": {
+      "emperor": "正德帝",
+      "reignTitle": "正德",
+      "yearStart": 1506,
+      "yearEnd": 1521
+    },
+    "qingNarrative": {
+      "text": "清修叙事常以荒唐、巡游、嬉戏概括正德朝。",
+      "sourceTitle": "清修《明史》",
+      "volume": "待核验条目",
+      "originalText": "待录入原文",
+      "url": "https://example.org/qing-narrative/zhengde",
+      "note": "Q级待核验对象。"
+    },
+    "counterQuestion": "应否把个人行为、军事行动、制度冲突、文官评价分别建模核验？",
+    "currentAssessment": "清修叙事缺少证据",
+    "evidenceIds": [
+      "ev-zhengde-001",
+      "ev-zhengde-002",
+      "ev-zhengde-003"
+    ],
+    "conclusion": "需要拆成多个子 claim，避免用单一人格标签覆盖全部材料。",
+    "confidenceLevel": "D",
+    "controversy": 71,
+    "tags": [
+      "正德",
+      "荒唐叙事",
+      "巡幸",
+      "军事"
+    ],
+    "demoOnly": true,
+    "leadIds": [
+      "lead-003"
+    ],
+    "sourceIds": [
+      "source-001",
+      "source-008",
+      "source-009"
+    ],
+    "reviewStatus": "pending_review",
+    "reviewNotes": "示例主张待进入二阶段人工审核；当前结论仅用于结构演示。",
+    "createdAt": "2026-06-07T11:30:00+08:00",
+    "updatedAt": "2026-06-07T11:30:00+08:00"
+  },
+  {
+    "id": "claim-yongle-maritime",
+    "title": "永乐疆域与远航是否被低估",
+    "topic": "疆域",
+    "period": {
+      "emperor": "永乐帝",
+      "reignTitle": "永乐",
+      "yearStart": 1403,
+      "yearEnd": 1424
+    },
+    "qingNarrative": {
+      "text": "部分叙事弱化永乐时期远航、册封和边疆控制的层级差异。",
+      "sourceTitle": "清代官方叙事与后出概括",
+      "volume": "待核验条目",
+      "originalText": "待录入原文",
+      "url": "https://example.org/qing-narrative/yongle",
+      "note": "需区分直接行政、军事控制、册封关系与航海影响。"
+    },
+    "counterQuestion": "永乐时期对外关系应如何用控制层级而非现代边界表达？",
+    "currentAssessment": "暂无法判断",
+    "evidenceIds": [
+      "ev-yongle-001",
+      "ev-yongle-002",
+      "ev-yongle-003"
+    ],
+    "conclusion": "原型仅演示层级化地图与证据链接，不形成疆域结论。",
+    "confidenceLevel": "B",
+    "controversy": 83,
+    "tags": [
+      "永乐",
+      "郑和",
+      "疆域层级",
+      "册封"
+    ],
+    "demoOnly": true,
+    "leadIds": [
+      "lead-002",
+      "lead-007"
+    ],
+    "sourceIds": [
+      "source-002",
+      "source-003",
+      "source-007"
+    ],
+    "reviewStatus": "pending_review",
+    "reviewNotes": "示例主张待进入二阶段人工审核；当前结论仅用于结构演示。",
+    "createdAt": "2026-06-07T11:30:00+08:00",
+    "updatedAt": "2026-06-07T11:30:00+08:00"
+  },
+  {
+    "id": "claim-territory-layers",
+    "title": "明朝疆域控制层级如何区分",
+    "topic": "疆域",
+    "period": {
+      "emperor": "多朝",
+      "reignTitle": "多时期",
+      "yearStart": 1368,
+      "yearEnd": 1644
+    },
+    "qingNarrative": {
+      "text": "传统叙事常以单一疆域边界概括多层次控制关系。",
+      "sourceTitle": "后世概括性叙事",
+      "volume": "待核验条目",
+      "originalText": "待录入原文",
+      "url": "https://example.org/qing-narrative/territory",
+      "note": "用于演示地图方法论。"
+    },
+    "counterQuestion": "直接行政区、军事控制区、羁縻册封、航海影响区是否应分别建层？",
+    "currentAssessment": "清修叙事缺少证据",
+    "evidenceIds": [
+      "ev-territory-001",
+      "ev-territory-002",
+      "ev-territory-003"
+    ],
+    "conclusion": "应优先表达控制类型和证据来源，而非绘制静态现代式边界。",
+    "confidenceLevel": "A",
+    "controversy": 69,
+    "tags": [
+      "地图",
+      "控制层级",
+      "历史地理"
+    ],
+    "demoOnly": true,
+    "leadIds": [
+      "lead-005",
+      "lead-007"
+    ],
+    "sourceIds": [
+      "source-002",
+      "source-005",
+      "source-008"
+    ],
+    "reviewStatus": "pending_review",
+    "reviewNotes": "示例主张待进入二阶段人工审核；当前结论仅用于结构演示。",
+    "createdAt": "2026-06-07T11:30:00+08:00",
+    "updatedAt": "2026-06-07T11:30:00+08:00"
+  },
+  {
+    "id": "claim-chongzhen-collapse",
+    "title": "崇祯亡国责任是否被过度简化",
+    "topic": "制度",
+    "period": {
+      "emperor": "崇祯帝",
+      "reignTitle": "崇祯",
+      "yearStart": 1628,
+      "yearEnd": 1644
+    },
+    "qingNarrative": {
+      "text": "清修及后世叙事常将亡国责任集中于君主性格与用人。",
+      "sourceTitle": "清修《明史》及后出叙事",
+      "volume": "待核验条目",
+      "originalText": "待录入原文",
+      "url": "https://example.org/qing-narrative/chongzhen",
+      "note": "需纳入财政、灾荒、军制、边防和政治结构。"
+    },
+    "counterQuestion": "亡国责任能否拆解为财政、军事、气候灾害、党争、边疆压力等多变量？",
+    "currentAssessment": "多源证据存在冲突",
+    "evidenceIds": [
+      "ev-chongzhen-001",
+      "ev-chongzhen-002",
+      "ev-chongzhen-003"
+    ],
+    "conclusion": "当前原型只呈现多变量框架，避免单因解释。",
+    "confidenceLevel": "C",
+    "controversy": 91,
+    "tags": [
+      "崇祯",
+      "亡国责任",
+      "财政",
+      "军制"
+    ],
+    "demoOnly": true,
+    "leadIds": [
+      "lead-004",
+      "lead-008"
+    ],
+    "sourceIds": [
+      "source-001",
+      "source-004",
+      "source-008"
+    ],
+    "reviewStatus": "pending_review",
+    "reviewNotes": "示例主张待进入二阶段人工审核；当前结论仅用于结构演示。",
+    "createdAt": "2026-06-07T11:30:00+08:00",
+    "updatedAt": "2026-06-07T11:30:00+08:00"
+  }
+]
