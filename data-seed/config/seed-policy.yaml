@@ -1,0 +1,7 @@
+defaultReviewStatus: pending_review
+defaultControversialLayer: D/X
+allowNetworkByDefault: false
+requireImportBatchId: true
+requireLicenseNote: true
+requireCitationOrUrl: true
+textChunkIsEvidence: false

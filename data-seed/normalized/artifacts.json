@@ -1,0 +1,24 @@
+[
+  {
+    "id": "museum-manifest-001",
+    "importBatchId": "batch-seed-museum-open-data",
+    "sourceId": "seed-source-museum-open-data",
+    "datasetName": "Museum Ming artifacts open data",
+    "filePathOrUrl": "data-seed/raw/museum/put-real-museum-artifacts-here.csv",
+    "format": "CSV",
+    "title": "Museum Ming artifacts open data",
+    "artifactType": "",
+    "institution": "Museum Ming artifacts open data",
+    "collectionUrl": "data-seed/raw/museum/put-real-museum-artifacts-here.csv",
+    "sourceLayer": "A",
+    "citation": "Museum collection citation and URL required",
+    "licenseNote": "User must copy institution license here before import",
+    "reviewStatus": "pending_review",
+    "suggestedLinks": [],
+    "validationWarnings": [],
+    "notes": "Placeholder manifest only; missing file should generate report",
+    "demoOnly": true,
+    "createdAt": "2026-06-07T05:32:37.401Z",
+    "updatedAt": "2026-06-07T05:32:37.401Z"
+  }
+]

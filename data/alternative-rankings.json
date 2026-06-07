@@ -1,0 +1,35 @@
+[
+  {
+    "controversialClaimId": "cc-wanli-network-001",
+    "networkControversyScore": 44,
+    "evidenceGapScore": 48,
+    "leadSignalCount": 1,
+    "platformDiversityScore": 1,
+    "missingEvidenceTaskCount": 2,
+    "highPriorityTaskCount": 1,
+    "lastCalculatedAt": "2026-06-07T04:27:54.109Z",
+    "demoOnly": true
+  },
+  {
+    "controversialClaimId": "cc-yongle-subtitle-001",
+    "networkControversyScore": 65,
+    "evidenceGapScore": 48,
+    "leadSignalCount": 1,
+    "platformDiversityScore": 1,
+    "missingEvidenceTaskCount": 2,
+    "highPriorityTaskCount": 1,
+    "lastCalculatedAt": "2026-06-07T04:27:54.109Z",
+    "demoOnly": true
+  },
+  {
+    "controversialClaimId": "cc-chongzhen-article-001",
+    "networkControversyScore": 48,
+    "evidenceGapScore": 48,
+    "leadSignalCount": 1,
+    "platformDiversityScore": 1,
+    "missingEvidenceTaskCount": 2,
+    "highPriorityTaskCount": 1,
+    "lastCalculatedAt": "2026-06-07T04:27:54.109Z",
+    "demoOnly": true
+  }
+]

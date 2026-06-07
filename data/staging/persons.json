@@ -1,0 +1,88 @@
+[
+  {
+    "id": "stg-person-demo-001",
+    "entityKind": "person",
+    "importBatchId": "batch-demo-006",
+    "rawPayload": {
+      "name": "示例人物"
+    },
+    "normalizedPayload": {
+      "name": "示例人物",
+      "dynastyOrDate": "明代",
+      "nativePlace": "待补"
+    },
+    "detectedSourceLayer": "C",
+    "detectedSourceType": "人物数据库",
+    "confidence": 0.62,
+    "duplicateCandidateIds": [],
+    "suggestedLinks": [],
+    "validationWarnings": [
+      "人物数据需核对来源和引用。"
+    ],
+    "validationErrors": [],
+    "reviewStatus": "pending_review",
+    "reviewerNote": "审核后才能进入 PersonProfile。",
+    "demoOnly": true,
+    "createdAt": "2026-06-07T12:40:00+08:00",
+    "updatedAt": "2026-06-07T12:40:00+08:00"
+  },
+  {
+    "id": "stg-cbdb-manifest-001",
+    "entityKind": "person",
+    "importBatchId": "batch-seed-cbdb",
+    "rawPayload": {
+      "id": "cbdb-manifest-001",
+      "importBatchId": "batch-seed-cbdb",
+      "sourceId": "seed-source-cbdb",
+      "datasetName": "CBDB Ming person export",
+      "filePathOrUrl": "data-seed/raw/cbdb/put-real-cbdb-export-here.csv",
+      "format": "CSV",
+      "name": "",
+      "office": "",
+      "nativePlace": "",
+      "dynastyOrDate": "明代",
+      "sourceLayer": "C",
+      "citation": "CBDB export citation required",
+      "licenseNote": "User must copy CBDB license here before import",
+      "reviewStatus": "pending_review",
+      "suggestedLinks": [],
+      "notes": "Placeholder manifest only; missing file should generate report",
+      "demoOnly": true,
+      "createdAt": "2026-06-07T05:32:37.399Z",
+      "updatedAt": "2026-06-07T05:32:37.399Z"
+    },
+    "normalizedPayload": {
+      "id": "cbdb-manifest-001",
+      "importBatchId": "batch-seed-cbdb",
+      "sourceId": "seed-source-cbdb",
+      "datasetName": "CBDB Ming person export",
+      "filePathOrUrl": "data-seed/raw/cbdb/put-real-cbdb-export-here.csv",
+      "format": "CSV",
+      "name": "",
+      "office": "",
+      "nativePlace": "",
+      "dynastyOrDate": "明代",
+      "sourceLayer": "C",
+      "citation": "CBDB export citation required",
+      "licenseNote": "User must copy CBDB license here before import",
+      "reviewStatus": "pending_review",
+      "suggestedLinks": [],
+      "notes": "Placeholder manifest only; missing file should generate report",
+      "demoOnly": true,
+      "createdAt": "2026-06-07T05:32:37.399Z",
+      "updatedAt": "2026-06-07T05:32:37.399Z"
+    },
+    "detectedSourceLayer": "C",
+    "detectedSourceType": "seed",
+    "confidence": 0.5,
+    "duplicateCandidateIds": [],
+    "suggestedLinks": [],
+    "validationWarnings": [],
+    "validationErrors": [],
+    "reviewStatus": "pending_review",
+    "reviewerNote": "Seed Builder generated; manual review required.",
+    "demoOnly": true,
+    "createdAt": "2026-06-07T05:32:37.558Z",
+    "updatedAt": "2026-06-07T05:32:37.558Z"
+  }
+]

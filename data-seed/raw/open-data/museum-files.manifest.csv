@@ -1,0 +1,2 @@
+id,datasetName,filePathOrUrl,format,sourceLayer,licenseNote,citationFormat,enabled,notes
+museum-manifest-001,Museum Ming artifacts open data,data-seed/raw/museum/put-real-museum-artifacts-here.csv,CSV,A,User must copy institution license here before import,Museum collection citation and URL required,true,Placeholder manifest only; missing file should generate report

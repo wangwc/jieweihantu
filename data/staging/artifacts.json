@@ -1,0 +1,91 @@
+[
+  {
+    "id": "stg-artifact-demo-001",
+    "entityKind": "artifact",
+    "importBatchId": "batch-demo-004",
+    "rawPayload": {
+      "title": "舆图图像资料占位"
+    },
+    "normalizedPayload": {
+      "title": "舆图图像资料占位",
+      "artifactType": "舆图",
+      "institution": "示例博物馆",
+      "licenseNote": "示例许可说明：真实接入需确认馆方授权。"
+    },
+    "detectedSourceLayer": "A",
+    "detectedSourceType": "博物馆文物",
+    "confidence": 0.71,
+    "duplicateCandidateIds": [],
+    "suggestedLinks": [],
+    "validationWarnings": [
+      "文物图像必须保留 licenseNote。"
+    ],
+    "validationErrors": [],
+    "reviewStatus": "pending_review",
+    "reviewerNote": "审核后才能进入正式 Artifact。",
+    "demoOnly": true,
+    "createdAt": "2026-06-07T12:40:00+08:00",
+    "updatedAt": "2026-06-07T12:40:00+08:00"
+  },
+  {
+    "id": "stg-museum-manifest-001",
+    "entityKind": "artifact",
+    "importBatchId": "batch-seed-museum-open-data",
+    "rawPayload": {
+      "id": "museum-manifest-001",
+      "importBatchId": "batch-seed-museum-open-data",
+      "sourceId": "seed-source-museum-open-data",
+      "datasetName": "Museum Ming artifacts open data",
+      "filePathOrUrl": "data-seed/raw/museum/put-real-museum-artifacts-here.csv",
+      "format": "CSV",
+      "title": "Museum Ming artifacts open data",
+      "artifactType": "",
+      "institution": "Museum Ming artifacts open data",
+      "collectionUrl": "data-seed/raw/museum/put-real-museum-artifacts-here.csv",
+      "sourceLayer": "A",
+      "citation": "Museum collection citation and URL required",
+      "licenseNote": "User must copy institution license here before import",
+      "reviewStatus": "pending_review",
+      "suggestedLinks": [],
+      "validationWarnings": [],
+      "notes": "Placeholder manifest only; missing file should generate report",
+      "demoOnly": true,
+      "createdAt": "2026-06-07T05:32:37.401Z",
+      "updatedAt": "2026-06-07T05:32:37.401Z"
+    },
+    "normalizedPayload": {
+      "id": "museum-manifest-001",
+      "importBatchId": "batch-seed-museum-open-data",
+      "sourceId": "seed-source-museum-open-data",
+      "datasetName": "Museum Ming artifacts open data",
+      "filePathOrUrl": "data-seed/raw/museum/put-real-museum-artifacts-here.csv",
+      "format": "CSV",
+      "title": "Museum Ming artifacts open data",
+      "artifactType": "",
+      "institution": "Museum Ming artifacts open data",
+      "collectionUrl": "data-seed/raw/museum/put-real-museum-artifacts-here.csv",
+      "sourceLayer": "A",
+      "citation": "Museum collection citation and URL required",
+      "licenseNote": "User must copy institution license here before import",
+      "reviewStatus": "pending_review",
+      "suggestedLinks": [],
+      "validationWarnings": [],
+      "notes": "Placeholder manifest only; missing file should generate report",
+      "demoOnly": true,
+      "createdAt": "2026-06-07T05:32:37.401Z",
+      "updatedAt": "2026-06-07T05:32:37.401Z"
+    },
+    "detectedSourceLayer": "A",
+    "detectedSourceType": "seed",
+    "confidence": 0.5,
+    "duplicateCandidateIds": [],
+    "suggestedLinks": [],
+    "validationWarnings": [],
+    "validationErrors": [],
+    "reviewStatus": "pending_review",
+    "reviewerNote": "Seed Builder generated; manual review required.",
+    "demoOnly": true,
+    "createdAt": "2026-06-07T05:32:37.558Z",
+    "updatedAt": "2026-06-07T05:32:37.558Z"
+  }
+]

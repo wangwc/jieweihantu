@@ -1,0 +1,23 @@
+[
+  {
+    "id": "textchunk-demo-001",
+    "sourceId": "source-001",
+    "title": "万历朝政运行片段占位",
+    "dynastyOrDate": "明代",
+    "volume": "待补卷次",
+    "page": "待补页码",
+    "originalText": "待录入原文",
+    "translationOrSummary": "示例片段：仅用于展示 TextChunk Studio，不能作为 Evidence。",
+    "keywords": ["万历", "朝政", "奏疏"],
+    "personIds": [],
+    "placeIds": [],
+    "candidateClaimIds": ["claim-wanli-court"],
+    "citation": "示例引用：待补正式引用。",
+    "url": "https://example.org/ming-records/textchunk-demo",
+    "licenseNote": "示例许可说明：真实资料需确认版本和授权。",
+    "reviewStatus": "pending_review",
+    "createdAt": "2026-06-07T12:40:00+08:00",
+    "updatedAt": "2026-06-07T12:40:00+08:00",
+    "demoOnly": true
+  }
+]

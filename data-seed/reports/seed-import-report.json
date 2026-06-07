@@ -1,0 +1,20 @@
+{
+  "mode": "staging",
+  "batch": {
+    "id": "batch-seed-import-1780810357558",
+    "importType": "json",
+    "entityType": "staging",
+    "fileName": "data-seed/normalized",
+    "importedAt": "2026-06-07T05:32:37.558Z",
+    "importedBy": "seed-builder",
+    "totalRows": 249,
+    "successRows": 249,
+    "failedRows": 0,
+    "warnings": [],
+    "errors": [],
+    "status": "success",
+    "rawFilePath": "data-seed/normalized",
+    "resultFilePath": "data/staging",
+    "demoOnly": true
+  }
+}

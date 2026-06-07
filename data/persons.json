@@ -1,0 +1,17 @@
+[
+  {
+    "id": "person-demo-001",
+    "name": "示例人物",
+    "reignYears": "待补",
+    "nativePlace": "待补",
+    "dynastyOrDate": "明代",
+    "sourceId": "source-004",
+    "relatedClaimIds": [],
+    "citation": "示例引用：待补正式人物数据库引用。",
+    "licenseNote": "示例许可说明：真实人物数据需确认授权。",
+    "reviewStatus": "pending_review",
+    "createdAt": "2026-06-07T12:40:00+08:00",
+    "updatedAt": "2026-06-07T12:40:00+08:00",
+    "demoOnly": true
+  }
+]

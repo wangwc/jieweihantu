@@ -1,0 +1,19 @@
+[
+  {
+    "id": "artifact-demo-001",
+    "title": "舆图图像资料占位",
+    "artifactType": "舆图",
+    "institution": "示例博物馆",
+    "sourceId": "source-002",
+    "dynastyOrDate": "明代或近明",
+    "url": "https://example.org/museum/map",
+    "imageUrl": "https://placehold.co/640x360/DDD2C3/1F1B16?text=Artifact",
+    "licenseNote": "示例许可说明：真实接入需确认馆方授权。",
+    "citation": "示例引用：待补正式馆藏引用，不伪造编号。",
+    "relatedClaimIds": ["claim-yongle-maritime"],
+    "reviewStatus": "pending_review",
+    "createdAt": "2026-06-07T12:40:00+08:00",
+    "updatedAt": "2026-06-07T12:40:00+08:00",
+    "demoOnly": true
+  }
+]

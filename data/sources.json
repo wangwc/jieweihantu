@@ -251,5 +251,29 @@
     "demoOnly": true,
     "createdAt": "2026-06-07T11:30:00+08:00",
     "updatedAt": "2026-06-07T11:30:00+08:00"
+  },
+  {
+    "id": "source-speculative-001",
+    "title": "???????????",
+    "sourceType": "Speculative Source",
+    "sourceLayer": "X",
+    "institution": "Alternative Narrative Framework",
+    "author": "?????AI????",
+    "dynastyOrDate": "??????",
+    "url": "https://example.org/speculative-source",
+    "homepageUrl": "https://example.org/speculative-source",
+    "previewImageUrl": "https://placehold.co/640x360/8B2C2C/FFFDF8?text=Speculative+Source",
+    "accessMethod": "manual",
+    "licenseNote": "???????????????????????????",
+    "citationFormat": "???????????URL??????",
+    "reliabilityNote": "示例来源：X级推测来源，只能进入争议叙事暂存层。",
+    "allowedUsage": "??????????????????????????????",
+    "importMethod": "manual",
+    "reviewRequired": true,
+    "status": "pending",
+    "sampleMediaAssets": [],
+    "demoOnly": true,
+    "createdAt": "2026-06-07T12:20:00+08:00",
+    "updatedAt": "2026-06-07T12:20:00+08:00"
   }
 ]

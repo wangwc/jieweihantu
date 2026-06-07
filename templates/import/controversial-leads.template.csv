@@ -1,0 +1,3 @@
+id,platform,kind,title,url,rawText,riskLevel,demoOnly
+cont-demo-001,公众号,article,万历不上朝争议文章占位,https://example.org/article,有人认为万历不上朝等于朝政完全停摆。,medium,true
+cont-demo-002,B站,subtitle,永乐远航字幕争议占位,https://example.org/video,字幕声称永乐远航建立海外直接统治。,high,true

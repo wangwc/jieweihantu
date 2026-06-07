@@ -1,0 +1,2 @@
+id,datasetName,filePathOrUrl,format,sourceLayer,licenseNote,citationFormat,enabled,notes
+chgis-manifest-001,CHGIS Ming place and boundary files,data-seed/raw/chgis/put-real-chgis-geojson-here.geojson,GeoJSON,C,User must copy CHGIS license here before import,CHGIS citation required,true,Placeholder manifest only; missing file should generate report

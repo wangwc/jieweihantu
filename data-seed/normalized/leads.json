@@ -1,0 +1,1022 @@
+[
+  {
+    "id": "seed-lead-cc-seed-001",
+    "importBatchId": "batch-seed-controversial-url-list",
+    "sourceId": "seed-source-controversial-url-list",
+    "platform": "Website",
+    "title": "待核验网络说法",
+    "url": "https://example.org/seed/yinshan-alps",
+    "rawSummary": "仅记录待核验问题，不作为事实。",
+    "extractedClaims": [
+      "阴山是否对应现代阿尔卑斯山"
+    ],
+    "reviewStatus": "pending_review",
+    "defaultLayer": "D/X",
+    "licenseNote": "URL metadata and manual summary only; platform content is not high-trust evidence.",
+    "citation": "https://example.org/seed/yinshan-alps",
+    "demoOnly": true
+  },
+  {
+    "id": "seed-lead-cc-seed-002",
+    "importBatchId": "batch-seed-controversial-url-list",
+    "sourceId": "seed-source-controversial-url-list",
+    "platform": "Website",
+    "title": "待核验网络说法",
+    "url": "https://example.org/seed/vatican-beijing",
+    "rawSummary": "仅记录待核验问题，不作为事实。",
+    "extractedClaims": [
+      "梵蒂冈是否对应明代北京"
+    ],
+    "reviewStatus": "pending_review",
+    "defaultLayer": "D/X",
+    "licenseNote": "URL metadata and manual summary only; platform content is not high-trust evidence.",
+    "citation": "https://example.org/seed/vatican-beijing",
+    "demoOnly": true
+  },
+  {
+    "id": "seed-lead-cc-seed-003",
+    "importBatchId": "batch-seed-controversial-url-list",
+    "sourceId": "seed-source-controversial-url-list",
+    "platform": "Website",
+    "title": "待核验网络说法",
+    "url": "https://example.org/seed/daqin-rome",
+    "rawSummary": "仅记录待核验问题，不作为事实。",
+    "extractedClaims": [
+      "大秦是否对应罗马或其他欧洲政权"
+    ],
+    "reviewStatus": "pending_review",
+    "defaultLayer": "D/X",
+    "licenseNote": "URL metadata and manual summary only; platform content is not high-trust evidence.",
+    "citation": "https://example.org/seed/daqin-rome",
+    "demoOnly": true
+  },
+  {
+    "id": "seed-lead-cc-seed-004",
+    "importBatchId": "batch-seed-controversial-url-list",
+    "sourceId": "seed-source-controversial-url-list",
+    "platform": "YouTube",
+    "title": "待核验网络视频",
+    "url": "https://example.org/seed/zhenghe-america",
+    "rawSummary": "仅记录待核验问题，不作为事实。",
+    "extractedClaims": [
+      "郑和是否抵达美洲"
+    ],
+    "reviewStatus": "pending_review",
+    "defaultLayer": "D/X",
+    "licenseNote": "URL metadata and manual summary only; platform content is not high-trust evidence.",
+    "citation": "https://example.org/seed/zhenghe-america",
+    "demoOnly": true
+  },
+  {
+    "id": "seed-lead-cc-seed-005",
+    "importBatchId": "batch-seed-controversial-url-list",
+    "sourceId": "seed-source-controversial-url-list",
+    "platform": "Bilibili",
+    "title": "待核验网络视频",
+    "url": "https://example.org/seed/ming-europe",
+    "rawSummary": "仅记录待核验问题，不作为事实。",
+    "extractedClaims": [
+      "明朝疆域是否覆盖欧洲"
+    ],
+    "reviewStatus": "pending_review",
+    "defaultLayer": "D/X",
+    "licenseNote": "URL metadata and manual summary only; platform content is not high-trust evidence.",
+    "citation": "https://example.org/seed/ming-europe",
+    "demoOnly": true
+  },
+  {
+    "id": "seed-lead-cc-seed-006",
+    "importBatchId": "batch-seed-controversial-url-list",
+    "sourceId": "seed-source-controversial-url-list",
+    "platform": "Website",
+    "title": "待核验文章",
+    "url": "https://example.org/seed/ming-world-map",
+    "rawSummary": "仅记录待核验问题，不作为事实。",
+    "extractedClaims": [
+      "明代舆图是否记录全球地理"
+    ],
+    "reviewStatus": "pending_review",
+    "defaultLayer": "D/X",
+    "licenseNote": "URL metadata and manual summary only; platform content is not high-trust evidence.",
+    "citation": "https://example.org/seed/ming-world-map",
+    "demoOnly": true
+  },
+  {
+    "id": "seed-lead-cc-seed-007",
+    "importBatchId": "batch-seed-controversial-url-list",
+    "sourceId": "seed-source-controversial-url-list",
+    "platform": "Forum",
+    "title": "待核验论坛帖",
+    "url": "https://example.org/seed/ming-firearms",
+    "rawSummary": "仅记录待核验问题，不作为事实。",
+    "extractedClaims": [
+      "明代火器是否领先欧洲"
+    ],
+    "reviewStatus": "pending_review",
+    "defaultLayer": "D/X",
+    "licenseNote": "URL metadata and manual summary only; platform content is not high-trust evidence.",
+    "citation": "https://example.org/seed/ming-firearms",
+    "demoOnly": true
+  },
+  {
+    "id": "seed-lead-cc-seed-008",
+    "importBatchId": "batch-seed-controversial-url-list",
+    "sourceId": "seed-source-controversial-url-list",
+    "platform": "Website",
+    "title": "待核验文章",
+    "url": "https://example.org/seed/yongle-global-tribute",
+    "rawSummary": "仅记录待核验问题，不作为事实。",
+    "extractedClaims": [
+      "永乐朝是否存在全球朝贡体系"
+    ],
+    "reviewStatus": "pending_review",
+    "defaultLayer": "D/X",
+    "licenseNote": "URL metadata and manual summary only; platform content is not high-trust evidence.",
+    "citation": "https://example.org/seed/yongle-global-tribute",
+    "demoOnly": true
+  },
+  {
+    "id": "seed-lead-cc-seed-009",
+    "importBatchId": "batch-seed-controversial-url-list",
+    "sourceId": "seed-source-controversial-url-list",
+    "platform": "Zhihu",
+    "title": "待核验问答",
+    "url": "https://example.org/seed/wanli-state-stop",
+    "rawSummary": "仅记录待核验问题，不作为事实。",
+    "extractedClaims": [
+      "万历不上朝是否等于国家机器停摆"
+    ],
+    "reviewStatus": "pending_review",
+    "defaultLayer": "D/X",
+    "licenseNote": "URL metadata and manual summary only; platform content is not high-trust evidence.",
+    "citation": "https://example.org/seed/wanli-state-stop",
+    "demoOnly": true
+  },
+  {
+    "id": "seed-lead-cc-seed-010",
+    "importBatchId": "batch-seed-controversial-url-list",
+    "sourceId": "seed-source-controversial-url-list",
+    "platform": "ShortVideo",
+    "title": "待核验短视频",
+    "url": "https://example.org/seed/tianqi-carpenter",
+    "rawSummary": "仅记录待核验问题，不作为事实。",
+    "extractedClaims": [
+      "天启木匠皇帝标签是否过度脸谱化"
+    ],
+    "reviewStatus": "pending_review",
+    "defaultLayer": "D/X",
+    "licenseNote": "URL metadata and manual summary only; platform content is not high-trust evidence.",
+    "citation": "https://example.org/seed/tianqi-carpenter",
+    "demoOnly": true
+  },
+  {
+    "id": "seed-lead-cc-seed-011",
+    "importBatchId": "batch-seed-controversial-url-list",
+    "sourceId": "seed-source-controversial-url-list",
+    "platform": "Website",
+    "title": "待核验文章",
+    "url": "https://example.org/seed/chongzhen-collapse",
+    "rawSummary": "仅记录待核验问题，不作为事实。",
+    "extractedClaims": [
+      "崇祯亡国责任是否被过度简化"
+    ],
+    "reviewStatus": "pending_review",
+    "defaultLayer": "D/X",
+    "licenseNote": "URL metadata and manual summary only; platform content is not high-trust evidence.",
+    "citation": "https://example.org/seed/chongzhen-collapse",
+    "demoOnly": true
+  },
+  {
+    "id": "seed-lead-cc-seed-012",
+    "importBatchId": "batch-seed-controversial-url-list",
+    "sourceId": "seed-source-controversial-url-list",
+    "platform": "Forum",
+    "title": "待核验论坛帖",
+    "url": "https://example.org/seed/qing-mingshi-bias",
+    "rawSummary": "仅记录待核验问题，不作为事实。",
+    "extractedClaims": [
+      "清修明史是否系统性贬低明朝皇帝"
+    ],
+    "reviewStatus": "pending_review",
+    "defaultLayer": "D/X",
+    "licenseNote": "URL metadata and manual summary only; platform content is not high-trust evidence.",
+    "citation": "https://example.org/seed/qing-mingshi-bias",
+    "demoOnly": true
+  },
+  {
+    "id": "seed-lead-cc-seed-013",
+    "importBatchId": "batch-seed-controversial-url-list",
+    "sourceId": "seed-source-controversial-url-list",
+    "platform": "Website",
+    "title": "待核验文章",
+    "url": "https://example.org/seed/hongwu-chancellor",
+    "rawSummary": "仅记录待核验问题，不作为事实。",
+    "extractedClaims": [
+      "洪武废相是否必然导致明代专制失控"
+    ],
+    "reviewStatus": "pending_review",
+    "defaultLayer": "D/X",
+    "licenseNote": "URL metadata and manual summary only; platform content is not high-trust evidence.",
+    "citation": "https://example.org/seed/hongwu-chancellor",
+    "demoOnly": true
+  },
+  {
+    "id": "seed-lead-cc-seed-014",
+    "importBatchId": "batch-seed-controversial-url-list",
+    "sourceId": "seed-source-controversial-url-list",
+    "platform": "Forum",
+    "title": "待核验论坛帖",
+    "url": "https://example.org/seed/jingnan-legitimacy",
+    "rawSummary": "仅记录待核验问题，不作为事实。",
+    "extractedClaims": [
+      "靖难之役是否完全改变明代政治合法性"
+    ],
+    "reviewStatus": "pending_review",
+    "defaultLayer": "D/X",
+    "licenseNote": "URL metadata and manual summary only; platform content is not high-trust evidence.",
+    "citation": "https://example.org/seed/jingnan-legitimacy",
+    "demoOnly": true
+  },
+  {
+    "id": "seed-lead-cc-seed-015",
+    "importBatchId": "batch-seed-controversial-url-list",
+    "sourceId": "seed-source-controversial-url-list",
+    "platform": "Website",
+    "title": "待核验文章",
+    "url": "https://example.org/seed/yongle-capital",
+    "rawSummary": "仅记录待核验问题，不作为事实。",
+    "extractedClaims": [
+      "永乐迁都北京是否主要出于控制欧亚"
+    ],
+    "reviewStatus": "pending_review",
+    "defaultLayer": "D/X",
+    "licenseNote": "URL metadata and manual summary only; platform content is not high-trust evidence.",
+    "citation": "https://example.org/seed/yongle-capital",
+    "demoOnly": true
+  },
+  {
+    "id": "seed-lead-cc-seed-016",
+    "importBatchId": "batch-seed-controversial-url-list",
+    "sourceId": "seed-source-controversial-url-list",
+    "platform": "Bilibili",
+    "title": "待核验视频",
+    "url": "https://example.org/seed/tumu-military",
+    "rawSummary": "仅记录待核验问题，不作为事实。",
+    "extractedClaims": [
+      "土木堡之变是否证明明军整体衰弱"
+    ],
+    "reviewStatus": "pending_review",
+    "defaultLayer": "D/X",
+    "licenseNote": "URL metadata and manual summary only; platform content is not high-trust evidence.",
+    "citation": "https://example.org/seed/tumu-military",
+    "demoOnly": true
+  },
+  {
+    "id": "seed-lead-cc-seed-017",
+    "importBatchId": "batch-seed-controversial-url-list",
+    "sourceId": "seed-source-controversial-url-list",
+    "platform": "Website",
+    "title": "待核验文章",
+    "url": "https://example.org/seed/yuqian-beijing",
+    "rawSummary": "仅记录待核验问题，不作为事实。",
+    "extractedClaims": [
+      "于谦北京保卫战作用是否被神化"
+    ],
+    "reviewStatus": "pending_review",
+    "defaultLayer": "D/X",
+    "licenseNote": "URL metadata and manual summary only; platform content is not high-trust evidence.",
+    "citation": "https://example.org/seed/yuqian-beijing",
+    "demoOnly": true
+  },
+  {
+    "id": "seed-lead-cc-seed-018",
+    "importBatchId": "batch-seed-controversial-url-list",
+    "sourceId": "seed-source-controversial-url-list",
+    "platform": "Forum",
+    "title": "待核验论坛帖",
+    "url": "https://example.org/seed/chenghua-border",
+    "rawSummary": "仅记录待核验问题，不作为事实。",
+    "extractedClaims": [
+      "成化犁庭是否被后世叙事低估"
+    ],
+    "reviewStatus": "pending_review",
+    "defaultLayer": "D/X",
+    "licenseNote": "URL metadata and manual summary only; platform content is not high-trust evidence.",
+    "citation": "https://example.org/seed/chenghua-border",
+    "demoOnly": true
+  },
+  {
+    "id": "seed-lead-cc-seed-019",
+    "importBatchId": "batch-seed-controversial-url-list",
+    "sourceId": "seed-source-controversial-url-list",
+    "platform": "Website",
+    "title": "待核验文章",
+    "url": "https://example.org/seed/hongzhi-revival",
+    "rawSummary": "仅记录待核验问题，不作为事实。",
+    "extractedClaims": [
+      "弘治中兴是否只是后世理想化标签"
+    ],
+    "reviewStatus": "pending_review",
+    "defaultLayer": "D/X",
+    "licenseNote": "URL metadata and manual summary only; platform content is not high-trust evidence.",
+    "citation": "https://example.org/seed/hongzhi-revival",
+    "demoOnly": true
+  },
+  {
+    "id": "seed-lead-cc-seed-020",
+    "importBatchId": "batch-seed-controversial-url-list",
+    "sourceId": "seed-source-controversial-url-list",
+    "platform": "ShortVideo",
+    "title": "待核验短视频",
+    "url": "https://example.org/seed/zhengde-absurd",
+    "rawSummary": "仅记录待核验问题，不作为事实。",
+    "extractedClaims": [
+      "正德荒唐叙事是否需要拆分"
+    ],
+    "reviewStatus": "pending_review",
+    "defaultLayer": "D/X",
+    "licenseNote": "URL metadata and manual summary only; platform content is not high-trust evidence.",
+    "citation": "https://example.org/seed/zhengde-absurd",
+    "demoOnly": true
+  },
+  {
+    "id": "seed-lead-cc-seed-021",
+    "importBatchId": "batch-seed-controversial-url-list",
+    "sourceId": "seed-source-controversial-url-list",
+    "platform": "Zhihu",
+    "title": "待核验问答",
+    "url": "https://example.org/seed/jiajing-governance",
+    "rawSummary": "仅记录待核验问题，不作为事实。",
+    "extractedClaims": [
+      "嘉靖是否长期怠政导致制度崩坏"
+    ],
+    "reviewStatus": "pending_review",
+    "defaultLayer": "D/X",
+    "licenseNote": "URL metadata and manual summary only; platform content is not high-trust evidence.",
+    "citation": "https://example.org/seed/jiajing-governance",
+    "demoOnly": true
+  },
+  {
+    "id": "seed-lead-cc-seed-022",
+    "importBatchId": "batch-seed-controversial-url-list",
+    "sourceId": "seed-source-controversial-url-list",
+    "platform": "Website",
+    "title": "待核验文章",
+    "url": "https://example.org/seed/longqing-trade",
+    "rawSummary": "仅记录待核验问题，不作为事实。",
+    "extractedClaims": [
+      "隆庆开关是否说明明朝主动拥抱海洋贸易"
+    ],
+    "reviewStatus": "pending_review",
+    "defaultLayer": "D/X",
+    "licenseNote": "URL metadata and manual summary only; platform content is not high-trust evidence.",
+    "citation": "https://example.org/seed/longqing-trade",
+    "demoOnly": true
+  },
+  {
+    "id": "seed-lead-cc-seed-023",
+    "importBatchId": "batch-seed-controversial-url-list",
+    "sourceId": "seed-source-controversial-url-list",
+    "platform": "Website",
+    "title": "待核验文章",
+    "url": "https://example.org/seed/wanli-campaigns",
+    "rawSummary": "仅记录待核验问题，不作为事实。",
+    "extractedClaims": [
+      "万历三大征是否耗尽明朝财政"
+    ],
+    "reviewStatus": "pending_review",
+    "defaultLayer": "D/X",
+    "licenseNote": "URL metadata and manual summary only; platform content is not high-trust evidence.",
+    "citation": "https://example.org/seed/wanli-campaigns",
+    "demoOnly": true
+  },
+  {
+    "id": "seed-lead-cc-seed-024",
+    "importBatchId": "batch-seed-controversial-url-list",
+    "sourceId": "seed-source-controversial-url-list",
+    "platform": "Forum",
+    "title": "待核验论坛帖",
+    "url": "https://example.org/seed/donglin-collapse",
+    "rawSummary": "仅记录待核验问题，不作为事实。",
+    "extractedClaims": [
+      "东林党是否应为明亡主要责任者"
+    ],
+    "reviewStatus": "pending_review",
+    "defaultLayer": "D/X",
+    "licenseNote": "URL metadata and manual summary only; platform content is not high-trust evidence.",
+    "citation": "https://example.org/seed/donglin-collapse",
+    "demoOnly": true
+  },
+  {
+    "id": "seed-lead-cc-seed-025",
+    "importBatchId": "batch-seed-controversial-url-list",
+    "sourceId": "seed-source-controversial-url-list",
+    "platform": "Website",
+    "title": "待核验文章",
+    "url": "https://example.org/seed/wei-zhongxian",
+    "rawSummary": "仅记录待核验问题，不作为事实。",
+    "extractedClaims": [
+      "魏忠贤是否被清代叙事过度妖魔化"
+    ],
+    "reviewStatus": "pending_review",
+    "defaultLayer": "D/X",
+    "licenseNote": "URL metadata and manual summary only; platform content is not high-trust evidence.",
+    "citation": "https://example.org/seed/wei-zhongxian",
+    "demoOnly": true
+  },
+  {
+    "id": "seed-lead-cc-seed-026",
+    "importBatchId": "batch-seed-controversial-url-list",
+    "sourceId": "seed-source-controversial-url-list",
+    "platform": "Zhihu",
+    "title": "待核验问答",
+    "url": "https://example.org/seed/zhang-juzheng",
+    "rawSummary": "仅记录待核验问题，不作为事实。",
+    "extractedClaims": [
+      "张居正改革是否延缓还是加速明亡"
+    ],
+    "reviewStatus": "pending_review",
+    "defaultLayer": "D/X",
+    "licenseNote": "URL metadata and manual summary only; platform content is not high-trust evidence.",
+    "citation": "https://example.org/seed/zhang-juzheng",
+    "demoOnly": true
+  },
+  {
+    "id": "seed-lead-cc-seed-027",
+    "importBatchId": "batch-seed-controversial-url-list",
+    "sourceId": "seed-source-controversial-url-list",
+    "platform": "Website",
+    "title": "待核验文章",
+    "url": "https://example.org/seed/silver-tax",
+    "rawSummary": "仅记录待核验问题，不作为事实。",
+    "extractedClaims": [
+      "一条鞭法是否造成白银依赖危机"
+    ],
+    "reviewStatus": "pending_review",
+    "defaultLayer": "D/X",
+    "licenseNote": "URL metadata and manual summary only; platform content is not high-trust evidence.",
+    "citation": "https://example.org/seed/silver-tax",
+    "demoOnly": true
+  },
+  {
+    "id": "seed-lead-cc-seed-028",
+    "importBatchId": "batch-seed-controversial-url-list",
+    "sourceId": "seed-source-controversial-url-list",
+    "platform": "Website",
+    "title": "待核验文章",
+    "url": "https://example.org/seed/little-ice-age",
+    "rawSummary": "仅记录待核验问题，不作为事实。",
+    "extractedClaims": [
+      "明末小冰期是否是明亡主因"
+    ],
+    "reviewStatus": "pending_review",
+    "defaultLayer": "D/X",
+    "licenseNote": "URL metadata and manual summary only; platform content is not high-trust evidence.",
+    "citation": "https://example.org/seed/little-ice-age",
+    "demoOnly": true
+  },
+  {
+    "id": "seed-lead-cc-seed-029",
+    "importBatchId": "batch-seed-controversial-url-list",
+    "sourceId": "seed-source-controversial-url-list",
+    "platform": "Forum",
+    "title": "待核验论坛帖",
+    "url": "https://example.org/seed/li-zicheng-fiscal",
+    "rawSummary": "仅记录待核验问题，不作为事实。",
+    "extractedClaims": [
+      "李自成起义是否主要由财政制度导致"
+    ],
+    "reviewStatus": "pending_review",
+    "defaultLayer": "D/X",
+    "licenseNote": "URL metadata and manual summary only; platform content is not high-trust evidence.",
+    "citation": "https://example.org/seed/li-zicheng-fiscal",
+    "demoOnly": true
+  },
+  {
+    "id": "seed-lead-cc-seed-030",
+    "importBatchId": "batch-seed-controversial-url-list",
+    "sourceId": "seed-source-controversial-url-list",
+    "platform": "Website",
+    "title": "待核验文章",
+    "url": "https://example.org/seed/liaodong-war",
+    "rawSummary": "仅记录待核验问题，不作为事实。",
+    "extractedClaims": [
+      "辽东战事是否是明亡决定性因素"
+    ],
+    "reviewStatus": "pending_review",
+    "defaultLayer": "D/X",
+    "licenseNote": "URL metadata and manual summary only; platform content is not high-trust evidence.",
+    "citation": "https://example.org/seed/liaodong-war",
+    "demoOnly": true
+  },
+  {
+    "id": "seed-lead-cc-seed-031",
+    "importBatchId": "batch-seed-controversial-url-list",
+    "sourceId": "seed-source-controversial-url-list",
+    "platform": "Website",
+    "title": "待核验文章",
+    "url": "https://example.org/seed/nurhaci-border",
+    "rawSummary": "仅记录待核验问题，不作为事实。",
+    "extractedClaims": [
+      "努尔哈赤崛起是否主要源于明朝边政失误"
+    ],
+    "reviewStatus": "pending_review",
+    "defaultLayer": "D/X",
+    "licenseNote": "URL metadata and manual summary only; platform content is not high-trust evidence.",
+    "citation": "https://example.org/seed/nurhaci-border",
+    "demoOnly": true
+  },
+  {
+    "id": "seed-lead-cc-seed-032",
+    "importBatchId": "batch-seed-controversial-url-list",
+    "sourceId": "seed-source-controversial-url-list",
+    "platform": "Bilibili",
+    "title": "待核验视频",
+    "url": "https://example.org/seed/haijin-trade",
+    "rawSummary": "仅记录待核验问题，不作为事实。",
+    "extractedClaims": [
+      "明代海禁是否完全扼杀海外贸易"
+    ],
+    "reviewStatus": "pending_review",
+    "defaultLayer": "D/X",
+    "licenseNote": "URL metadata and manual summary only; platform content is not high-trust evidence.",
+    "citation": "https://example.org/seed/haijin-trade",
+    "demoOnly": true
+  },
+  {
+    "id": "seed-lead-cc-seed-033",
+    "importBatchId": "batch-seed-controversial-url-list",
+    "sourceId": "seed-source-controversial-url-list",
+    "platform": "Website",
+    "title": "待核验文章",
+    "url": "https://example.org/seed/wokou-cause",
+    "rawSummary": "仅记录待核验问题，不作为事实。",
+    "extractedClaims": [
+      "倭寇问题是否主要由日本因素造成"
+    ],
+    "reviewStatus": "pending_review",
+    "defaultLayer": "D/X",
+    "licenseNote": "URL metadata and manual summary only; platform content is not high-trust evidence.",
+    "citation": "https://example.org/seed/wokou-cause",
+    "demoOnly": true
+  },
+  {
+    "id": "seed-lead-cc-seed-034",
+    "importBatchId": "batch-seed-controversial-url-list",
+    "sourceId": "seed-source-controversial-url-list",
+    "platform": "Forum",
+    "title": "待核验论坛帖",
+    "url": "https://example.org/seed/qi-jiguang",
+    "rawSummary": "仅记录待核验问题，不作为事实。",
+    "extractedClaims": [
+      "戚继光抗倭战绩是否被夸大"
+    ],
+    "reviewStatus": "pending_review",
+    "defaultLayer": "D/X",
+    "licenseNote": "URL metadata and manual summary only; platform content is not high-trust evidence.",
+    "citation": "https://example.org/seed/qi-jiguang",
+    "demoOnly": true
+  },
+  {
+    "id": "seed-lead-cc-seed-035",
+    "importBatchId": "batch-seed-controversial-url-list",
+    "sourceId": "seed-source-controversial-url-list",
+    "platform": "Website",
+    "title": "待核验文章",
+    "url": "https://example.org/seed/weisuo",
+    "rawSummary": "仅记录待核验问题，不作为事实。",
+    "extractedClaims": [
+      "明代卫所制度是否早期即失效"
+    ],
+    "reviewStatus": "pending_review",
+    "defaultLayer": "D/X",
+    "licenseNote": "URL metadata and manual summary only; platform content is not high-trust evidence.",
+    "citation": "https://example.org/seed/weisuo",
+    "demoOnly": true
+  },
+  {
+    "id": "seed-lead-cc-seed-036",
+    "importBatchId": "batch-seed-controversial-url-list",
+    "sourceId": "seed-source-controversial-url-list",
+    "platform": "ShortVideo",
+    "title": "待核验短视频",
+    "url": "https://example.org/seed/jinyiwei",
+    "rawSummary": "仅记录待核验问题，不作为事实。",
+    "extractedClaims": [
+      "明代锦衣卫是否等同现代秘密警察"
+    ],
+    "reviewStatus": "pending_review",
+    "defaultLayer": "D/X",
+    "licenseNote": "URL metadata and manual summary only; platform content is not high-trust evidence.",
+    "citation": "https://example.org/seed/jinyiwei",
+    "demoOnly": true
+  },
+  {
+    "id": "seed-lead-cc-seed-037",
+    "importBatchId": "batch-seed-controversial-url-list",
+    "sourceId": "seed-source-controversial-url-list",
+    "platform": "Bilibili",
+    "title": "待核验视频",
+    "url": "https://example.org/seed/changwei",
+    "rawSummary": "仅记录待核验问题，不作为事实。",
+    "extractedClaims": [
+      "东厂西厂是否导致明代政治全面恐怖化"
+    ],
+    "reviewStatus": "pending_review",
+    "defaultLayer": "D/X",
+    "licenseNote": "URL metadata and manual summary only; platform content is not high-trust evidence.",
+    "citation": "https://example.org/seed/changwei",
+    "demoOnly": true
+  },
+  {
+    "id": "seed-lead-cc-seed-038",
+    "importBatchId": "batch-seed-controversial-url-list",
+    "sourceId": "seed-source-controversial-url-list",
+    "platform": "Website",
+    "title": "待核验文章",
+    "url": "https://example.org/seed/keju-science",
+    "rawSummary": "仅记录待核验问题，不作为事实。",
+    "extractedClaims": [
+      "明代科举是否压制科学技术"
+    ],
+    "reviewStatus": "pending_review",
+    "defaultLayer": "D/X",
+    "licenseNote": "URL metadata and manual summary only; platform content is not high-trust evidence.",
+    "citation": "https://example.org/seed/keju-science",
+    "demoOnly": true
+  },
+  {
+    "id": "seed-lead-cc-seed-039",
+    "importBatchId": "batch-seed-controversial-url-list",
+    "sourceId": "seed-source-controversial-url-list",
+    "platform": "Zhihu",
+    "title": "待核验问答",
+    "url": "https://example.org/seed/yangming",
+    "rawSummary": "仅记录待核验问题，不作为事实。",
+    "extractedClaims": [
+      "王阳明心学是否削弱实政能力"
+    ],
+    "reviewStatus": "pending_review",
+    "defaultLayer": "D/X",
+    "licenseNote": "URL metadata and manual summary only; platform content is not high-trust evidence.",
+    "citation": "https://example.org/seed/yangming",
+    "demoOnly": true
+  },
+  {
+    "id": "seed-lead-cc-seed-040",
+    "importBatchId": "batch-seed-controversial-url-list",
+    "sourceId": "seed-source-controversial-url-list",
+    "platform": "Website",
+    "title": "待核验文章",
+    "url": "https://example.org/seed/publishing-public",
+    "rawSummary": "仅记录待核验问题，不作为事实。",
+    "extractedClaims": [
+      "明代出版文化是否带来近代公共舆论"
+    ],
+    "reviewStatus": "pending_review",
+    "defaultLayer": "D/X",
+    "licenseNote": "URL metadata and manual summary only; platform content is not high-trust evidence.",
+    "citation": "https://example.org/seed/publishing-public",
+    "demoOnly": true
+  },
+  {
+    "id": "seed-lead-cc-seed-041",
+    "importBatchId": "batch-seed-controversial-url-list",
+    "sourceId": "seed-source-controversial-url-list",
+    "platform": "Website",
+    "title": "待核验文章",
+    "url": "https://example.org/seed/ming-city-capitalism",
+    "rawSummary": "仅记录待核验问题，不作为事实。",
+    "extractedClaims": [
+      "明代商业城市是否接近资本主义城市"
+    ],
+    "reviewStatus": "pending_review",
+    "defaultLayer": "D/X",
+    "licenseNote": "URL metadata and manual summary only; platform content is not high-trust evidence.",
+    "citation": "https://example.org/seed/ming-city-capitalism",
+    "demoOnly": true
+  },
+  {
+    "id": "seed-lead-cc-seed-042",
+    "importBatchId": "batch-seed-controversial-url-list",
+    "sourceId": "seed-source-controversial-url-list",
+    "platform": "Website",
+    "title": "待核验文章",
+    "url": "https://example.org/seed/jiangnan-industry",
+    "rawSummary": "仅记录待核验问题，不作为事实。",
+    "extractedClaims": [
+      "江南经济是否足以支持明朝工业化"
+    ],
+    "reviewStatus": "pending_review",
+    "defaultLayer": "D/X",
+    "licenseNote": "URL metadata and manual summary only; platform content is not high-trust evidence.",
+    "citation": "https://example.org/seed/jiangnan-industry",
+    "demoOnly": true
+  },
+  {
+    "id": "seed-lead-cc-seed-043",
+    "importBatchId": "batch-seed-controversial-url-list",
+    "sourceId": "seed-source-controversial-url-list",
+    "platform": "Forum",
+    "title": "待核验论坛帖",
+    "url": "https://example.org/seed/ming-population",
+    "rawSummary": "仅记录待核验问题，不作为事实。",
+    "extractedClaims": [
+      "明代人口数字是否被严重低估"
+    ],
+    "reviewStatus": "pending_review",
+    "defaultLayer": "D/X",
+    "licenseNote": "URL metadata and manual summary only; platform content is not high-trust evidence.",
+    "citation": "https://example.org/seed/ming-population",
+    "demoOnly": true
+  },
+  {
+    "id": "seed-lead-cc-seed-044",
+    "importBatchId": "batch-seed-controversial-url-list",
+    "sourceId": "seed-source-controversial-url-list",
+    "platform": "Website",
+    "title": "待核验文章",
+    "url": "https://example.org/seed/silver-center",
+    "rawSummary": "仅记录待核验问题，不作为事实。",
+    "extractedClaims": [
+      "明代白银流入是否说明全球金融中心在中国"
+    ],
+    "reviewStatus": "pending_review",
+    "defaultLayer": "D/X",
+    "licenseNote": "URL metadata and manual summary only; platform content is not high-trust evidence.",
+    "citation": "https://example.org/seed/silver-center",
+    "demoOnly": true
+  },
+  {
+    "id": "seed-lead-cc-seed-045",
+    "importBatchId": "batch-seed-controversial-url-list",
+    "sourceId": "seed-source-controversial-url-list",
+    "platform": "Website",
+    "title": "待核验文章",
+    "url": "https://example.org/seed/nation-state",
+    "rawSummary": "仅记录待核验问题，不作为事实。",
+    "extractedClaims": [
+      "明朝是否拥有近代意义民族国家结构"
+    ],
+    "reviewStatus": "pending_review",
+    "defaultLayer": "D/X",
+    "licenseNote": "URL metadata and manual summary only; platform content is not high-trust evidence.",
+    "citation": "https://example.org/seed/nation-state",
+    "demoOnly": true
+  },
+  {
+    "id": "seed-lead-cc-seed-046",
+    "importBatchId": "batch-seed-controversial-url-list",
+    "sourceId": "seed-source-controversial-url-list",
+    "platform": "Forum",
+    "title": "待核验论坛帖",
+    "url": "https://example.org/seed/tibet-control",
+    "rawSummary": "仅记录待核验问题，不作为事实。",
+    "extractedClaims": [
+      "明代对西藏控制是否等同直接行政"
+    ],
+    "reviewStatus": "pending_review",
+    "defaultLayer": "D/X",
+    "licenseNote": "URL metadata and manual summary only; platform content is not high-trust evidence.",
+    "citation": "https://example.org/seed/tibet-control",
+    "demoOnly": true
+  },
+  {
+    "id": "seed-lead-cc-seed-047",
+    "importBatchId": "batch-seed-controversial-url-list",
+    "sourceId": "seed-source-controversial-url-list",
+    "platform": "Website",
+    "title": "待核验文章",
+    "url": "https://example.org/seed/northeast-control",
+    "rawSummary": "仅记录待核验问题，不作为事实。",
+    "extractedClaims": [
+      "明代对东北控制是否覆盖整个外东北"
+    ],
+    "reviewStatus": "pending_review",
+    "defaultLayer": "D/X",
+    "licenseNote": "URL metadata and manual summary only; platform content is not high-trust evidence.",
+    "citation": "https://example.org/seed/northeast-control",
+    "demoOnly": true
+  },
+  {
+    "id": "seed-lead-cc-seed-048",
+    "importBatchId": "batch-seed-controversial-url-list",
+    "sourceId": "seed-source-controversial-url-list",
+    "platform": "Bilibili",
+    "title": "待核验视频",
+    "url": "https://example.org/seed/nurgan",
+    "rawSummary": "仅记录待核验问题，不作为事实。",
+    "extractedClaims": [
+      "奴儿干都司是否等于现代行政省"
+    ],
+    "reviewStatus": "pending_review",
+    "defaultLayer": "D/X",
+    "licenseNote": "URL metadata and manual summary only; platform content is not high-trust evidence.",
+    "citation": "https://example.org/seed/nurgan",
+    "demoOnly": true
+  },
+  {
+    "id": "seed-lead-cc-seed-049",
+    "importBatchId": "batch-seed-controversial-url-list",
+    "sourceId": "seed-source-controversial-url-list",
+    "platform": "Website",
+    "title": "待核验文章",
+    "url": "https://example.org/seed/jiaozhi",
+    "rawSummary": "仅记录待核验问题，不作为事实。",
+    "extractedClaims": [
+      "交趾布政司是否证明越南长期归属明朝"
+    ],
+    "reviewStatus": "pending_review",
+    "defaultLayer": "D/X",
+    "licenseNote": "URL metadata and manual summary only; platform content is not high-trust evidence.",
+    "citation": "https://example.org/seed/jiaozhi",
+    "demoOnly": true
+  },
+  {
+    "id": "seed-lead-cc-seed-050",
+    "importBatchId": "batch-seed-controversial-url-list",
+    "sourceId": "seed-source-controversial-url-list",
+    "platform": "Forum",
+    "title": "待核验论坛帖",
+    "url": "https://example.org/seed/hami",
+    "rawSummary": "仅记录待核验问题，不作为事实。",
+    "extractedClaims": [
+      "哈密卫是否说明明朝控制中亚"
+    ],
+    "reviewStatus": "pending_review",
+    "defaultLayer": "D/X",
+    "licenseNote": "URL metadata and manual summary only; platform content is not high-trust evidence.",
+    "citation": "https://example.org/seed/hami",
+    "demoOnly": true
+  },
+  {
+    "id": "seed-lead-cc-seed-051",
+    "importBatchId": "batch-seed-controversial-url-list",
+    "sourceId": "seed-source-controversial-url-list",
+    "platform": "Bilibili",
+    "title": "待核验视频",
+    "url": "https://example.org/seed/military-industry",
+    "rawSummary": "仅记录待核验问题，不作为事实。",
+    "extractedClaims": [
+      "明代是否拥有完整工业军工体系"
+    ],
+    "reviewStatus": "pending_review",
+    "defaultLayer": "D/X",
+    "licenseNote": "URL metadata and manual summary only; platform content is not high-trust evidence.",
+    "citation": "https://example.org/seed/military-industry",
+    "demoOnly": true
+  },
+  {
+    "id": "seed-lead-cc-seed-052",
+    "importBatchId": "batch-seed-controversial-url-list",
+    "sourceId": "seed-source-controversial-url-list",
+    "platform": "ShortVideo",
+    "title": "待核验短视频",
+    "url": "https://example.org/seed/shenjiying",
+    "rawSummary": "仅记录待核验问题，不作为事实。",
+    "extractedClaims": [
+      "神机营是否代表世界最先进火器部队"
+    ],
+    "reviewStatus": "pending_review",
+    "defaultLayer": "D/X",
+    "licenseNote": "URL metadata and manual summary only; platform content is not high-trust evidence.",
+    "citation": "https://example.org/seed/shenjiying",
+    "demoOnly": true
+  },
+  {
+    "id": "seed-lead-cc-seed-053",
+    "importBatchId": "batch-seed-controversial-url-list",
+    "sourceId": "seed-source-controversial-url-list",
+    "platform": "Website",
+    "title": "待核验文章",
+    "url": "https://example.org/seed/ming-navy",
+    "rawSummary": "仅记录待核验问题，不作为事实。",
+    "extractedClaims": [
+      "明代水师是否长期保持东亚海上霸权"
+    ],
+    "reviewStatus": "pending_review",
+    "defaultLayer": "D/X",
+    "licenseNote": "URL metadata and manual summary only; platform content is not high-trust evidence.",
+    "citation": "https://example.org/seed/ming-navy",
+    "demoOnly": true
+  },
+  {
+    "id": "seed-lead-cc-seed-054",
+    "importBatchId": "batch-seed-controversial-url-list",
+    "sourceId": "seed-source-controversial-url-list",
+    "platform": "Website",
+    "title": "待核验文章",
+    "url": "https://example.org/seed/zheng-chenggong",
+    "rawSummary": "仅记录待核验问题，不作为事实。",
+    "extractedClaims": [
+      "郑成功是否可归入明朝海权延续"
+    ],
+    "reviewStatus": "pending_review",
+    "defaultLayer": "D/X",
+    "licenseNote": "URL metadata and manual summary only; platform content is not high-trust evidence.",
+    "citation": "https://example.org/seed/zheng-chenggong",
+    "demoOnly": true
+  },
+  {
+    "id": "seed-lead-cc-seed-055",
+    "importBatchId": "batch-seed-controversial-url-list",
+    "sourceId": "seed-source-controversial-url-list",
+    "platform": "Forum",
+    "title": "待核验论坛帖",
+    "url": "https://example.org/seed/southern-ming",
+    "rawSummary": "仅记录待核验问题，不作为事实。",
+    "extractedClaims": [
+      "南明是否仍应视为明朝正统延续"
+    ],
+    "reviewStatus": "pending_review",
+    "defaultLayer": "D/X",
+    "licenseNote": "URL metadata and manual summary only; platform content is not high-trust evidence.",
+    "citation": "https://example.org/seed/southern-ming",
+    "demoOnly": true
+  },
+  {
+    "id": "seed-lead-cc-seed-056",
+    "importBatchId": "batch-seed-controversial-url-list",
+    "sourceId": "seed-source-controversial-url-list",
+    "platform": "Website",
+    "title": "待核验文章",
+    "url": "https://example.org/seed/princes-fiscal",
+    "rawSummary": "仅记录待核验问题，不作为事实。",
+    "extractedClaims": [
+      "明代宗藩制度是否导致财政崩溃"
+    ],
+    "reviewStatus": "pending_review",
+    "defaultLayer": "D/X",
+    "licenseNote": "URL metadata and manual summary only; platform content is not high-trust evidence.",
+    "citation": "https://example.org/seed/princes-fiscal",
+    "demoOnly": true
+  },
+  {
+    "id": "seed-lead-cc-seed-057",
+    "importBatchId": "batch-seed-controversial-url-list",
+    "sourceId": "seed-source-controversial-url-list",
+    "platform": "Website",
+    "title": "待核验文章",
+    "url": "https://example.org/seed/mining-tax",
+    "rawSummary": "仅记录待核验问题，不作为事实。",
+    "extractedClaims": [
+      "矿税是否是晚明社会矛盾主因"
+    ],
+    "reviewStatus": "pending_review",
+    "defaultLayer": "D/X",
+    "licenseNote": "URL metadata and manual summary only; platform content is not high-trust evidence.",
+    "citation": "https://example.org/seed/mining-tax",
+    "demoOnly": true
+  },
+  {
+    "id": "seed-lead-cc-seed-058",
+    "importBatchId": "batch-seed-controversial-url-list",
+    "sourceId": "seed-source-controversial-url-list",
+    "platform": "Forum",
+    "title": "待核验论坛帖",
+    "url": "https://example.org/seed/disaster-records",
+    "rawSummary": "仅记录待核验问题，不作为事实。",
+    "extractedClaims": [
+      "明代灾荒记载是否被后世夸大"
+    ],
+    "reviewStatus": "pending_review",
+    "defaultLayer": "D/X",
+    "licenseNote": "URL metadata and manual summary only; platform content is not high-trust evidence.",
+    "citation": "https://example.org/seed/disaster-records",
+    "demoOnly": true
+  },
+  {
+    "id": "seed-lead-cc-seed-059",
+    "importBatchId": "batch-seed-controversial-url-list",
+    "sourceId": "seed-source-controversial-url-list",
+    "platform": "Website",
+    "title": "待核验文章",
+    "url": "https://example.org/seed/qing-entry",
+    "rawSummary": "仅记录待核验问题，不作为事实。",
+    "extractedClaims": [
+      "清军入关是否主要依赖明朝内部崩溃"
+    ],
+    "reviewStatus": "pending_review",
+    "defaultLayer": "D/X",
+    "licenseNote": "URL metadata and manual summary only; platform content is not high-trust evidence.",
+    "citation": "https://example.org/seed/qing-entry",
+    "demoOnly": true
+  },
+  {
+    "id": "seed-lead-cc-seed-060",
+    "importBatchId": "batch-seed-controversial-url-list",
+    "sourceId": "seed-source-controversial-url-list",
+    "platform": "Website",
+    "title": "待核验文章",
+    "url": "https://example.org/seed/single-cause-collapse",
+    "rawSummary": "仅记录待核验问题，不作为事实。",
+    "extractedClaims": [
+      "明朝灭亡是否可归因于单一制度缺陷"
+    ],
+    "reviewStatus": "pending_review",
+    "defaultLayer": "D/X",
+    "licenseNote": "URL metadata and manual summary only; platform content is not high-trust evidence.",
+    "citation": "https://example.org/seed/single-cause-collapse",
+    "demoOnly": true
+  }
+]

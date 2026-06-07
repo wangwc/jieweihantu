@@ -1,0 +1,23 @@
+[
+  {
+    "id": "cbdb-manifest-001",
+    "importBatchId": "batch-seed-cbdb",
+    "sourceId": "seed-source-cbdb",
+    "datasetName": "CBDB Ming person export",
+    "filePathOrUrl": "data-seed/raw/cbdb/put-real-cbdb-export-here.csv",
+    "format": "CSV",
+    "name": "",
+    "office": "",
+    "nativePlace": "",
+    "dynastyOrDate": "明代",
+    "sourceLayer": "C",
+    "citation": "CBDB export citation required",
+    "licenseNote": "User must copy CBDB license here before import",
+    "reviewStatus": "pending_review",
+    "suggestedLinks": [],
+    "notes": "Placeholder manifest only; missing file should generate report",
+    "demoOnly": true,
+    "createdAt": "2026-06-07T05:32:37.399Z",
+    "updatedAt": "2026-06-07T05:32:37.399Z"
+  }
+]

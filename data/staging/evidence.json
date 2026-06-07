@@ -1,0 +1,38 @@
+[
+  {
+    "id": "stg-evidence-demo-001",
+    "entityKind": "evidence",
+    "importBatchId": "batch-demo-003",
+    "rawPayload": {
+      "textChunkId": "textchunk-demo-001"
+    },
+    "normalizedPayload": {
+      "claimId": "claim-wanli-court",
+      "sourceId": "source-001",
+      "relationToClaim": "提供背景",
+      "verificationStatus": "未审核"
+    },
+    "detectedSourceLayer": "S",
+    "detectedSourceType": "明代实录",
+    "confidence": 0.72,
+    "duplicateCandidateIds": [],
+    "suggestedLinks": [
+      {
+        "entityType": "claim",
+        "entityId": "claim-wanli-court",
+        "label": "万历不上朝是否等于不理政",
+        "reason": "关键词和年号匹配。",
+        "confidence": 0.76
+      }
+    ],
+    "validationWarnings": [
+      "TextChunk 生成的候选证据必须人工审核。"
+    ],
+    "validationErrors": [],
+    "reviewStatus": "pending_review",
+    "reviewerNote": "不得直接写入正式 Evidence。",
+    "demoOnly": true,
+    "createdAt": "2026-06-07T12:40:00+08:00",
+    "updatedAt": "2026-06-07T12:40:00+08:00"
+  }
+]

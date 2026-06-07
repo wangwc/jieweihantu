@@ -1,0 +1,38 @@
+{
+  "sourceRecords": [
+    {
+      "id": "seed-source-local-historical-text",
+      "title": "Local Historical Text",
+      "sourceType": "local_file",
+      "sourceLayer": "S",
+      "institution": "Local Historical Text",
+      "author": "",
+      "dynastyOrDate": "seed",
+      "url": "",
+      "accessMethod": "local-file",
+      "licenseNote": "Local files must keep source license or access note.",
+      "citation": "Local file path plus source citation.",
+      "citationFormat": "Local file path plus source citation.",
+      "reliabilityNote": "Missing full text remains pending_review.",
+      "allowedUsage": "Manually downloaded TXT or Markdown only.",
+      "importMethod": "csv",
+      "reviewRequired": true,
+      "status": "pending",
+      "sampleMediaAssets": [],
+      "demoOnly": true,
+      "createdAt": "2026-06-07T05:32:37.341Z",
+      "updatedAt": "2026-06-07T05:32:37.341Z"
+    }
+  ],
+  "normalizedRecords": [],
+  "warnings": [
+    {
+      "id": "missing-local-historical-text",
+      "sourceId": "local-historical-text",
+      "filePath": "data-seed\\raw\\historical-text\\local-historical-text.page-list.csv",
+      "severity": "warning",
+      "message": "Raw source is not available. Seed builder records this as missing data instead of fabricating records."
+    }
+  ],
+  "errors": []
+}

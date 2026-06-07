@@ -1,0 +1,2 @@
+id,datasetName,filePathOrUrl,format,sourceLayer,licenseNote,citationFormat,enabled,notes
+cbdb-manifest-001,CBDB Ming person export,data-seed/raw/cbdb/put-real-cbdb-export-here.csv,CSV,C,User must copy CBDB license here before import,CBDB export citation required,true,Placeholder manifest only; missing file should generate report

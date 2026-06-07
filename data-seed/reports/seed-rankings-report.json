@@ -1,0 +1,1013 @@
+{
+  "generatedAt": "2026-06-07T05:32:37.632Z",
+  "networkHeat": [
+    {
+      "id": "cc-seed-001",
+      "title": "阴山是否对应现代阿尔卑斯山",
+      "networkHeatScore": 88,
+      "evidenceGapScore": 66,
+      "reviewPriorityScore": 90,
+      "highRiskScore": 80,
+      "highValueEvidenceScore": 60,
+      "note": "热度不等于可信度；pending_review 不增加事实可信度。"
+    },
+    {
+      "id": "cc-seed-002",
+      "title": "梵蒂冈是否对应明代北京",
+      "networkHeatScore": 88,
+      "evidenceGapScore": 66,
+      "reviewPriorityScore": 90,
+      "highRiskScore": 80,
+      "highValueEvidenceScore": 60,
+      "note": "热度不等于可信度；pending_review 不增加事实可信度。"
+    },
+    {
+      "id": "cc-seed-004",
+      "title": "郑和是否抵达美洲",
+      "networkHeatScore": 88,
+      "evidenceGapScore": 66,
+      "reviewPriorityScore": 90,
+      "highRiskScore": 80,
+      "highValueEvidenceScore": 60,
+      "note": "热度不等于可信度；pending_review 不增加事实可信度。"
+    },
+    {
+      "id": "cc-seed-005",
+      "title": "明朝疆域是否覆盖欧洲",
+      "networkHeatScore": 88,
+      "evidenceGapScore": 66,
+      "reviewPriorityScore": 90,
+      "highRiskScore": 80,
+      "highValueEvidenceScore": 60,
+      "note": "热度不等于可信度；pending_review 不增加事实可信度。"
+    },
+    {
+      "id": "cc-seed-015",
+      "title": "永乐迁都北京是否主要出于控制欧亚",
+      "networkHeatScore": 88,
+      "evidenceGapScore": 66,
+      "reviewPriorityScore": 90,
+      "highRiskScore": 80,
+      "highValueEvidenceScore": 60,
+      "note": "热度不等于可信度；pending_review 不增加事实可信度。"
+    },
+    {
+      "id": "cc-seed-044",
+      "title": "明代白银流入是否说明全球金融中心在中国",
+      "networkHeatScore": 88,
+      "evidenceGapScore": 66,
+      "reviewPriorityScore": 90,
+      "highRiskScore": 80,
+      "highValueEvidenceScore": 60,
+      "note": "热度不等于可信度；pending_review 不增加事实可信度。"
+    },
+    {
+      "id": "cc-seed-045",
+      "title": "明朝是否拥有近代意义民族国家结构",
+      "networkHeatScore": 88,
+      "evidenceGapScore": 66,
+      "reviewPriorityScore": 90,
+      "highRiskScore": 80,
+      "highValueEvidenceScore": 60,
+      "note": "热度不等于可信度；pending_review 不增加事实可信度。"
+    },
+    {
+      "id": "cc-seed-046",
+      "title": "明代对西藏控制是否等同直接行政",
+      "networkHeatScore": 88,
+      "evidenceGapScore": 66,
+      "reviewPriorityScore": 90,
+      "highRiskScore": 80,
+      "highValueEvidenceScore": 60,
+      "note": "热度不等于可信度；pending_review 不增加事实可信度。"
+    },
+    {
+      "id": "cc-seed-047",
+      "title": "明代对东北控制是否覆盖整个外东北",
+      "networkHeatScore": 88,
+      "evidenceGapScore": 66,
+      "reviewPriorityScore": 90,
+      "highRiskScore": 80,
+      "highValueEvidenceScore": 60,
+      "note": "热度不等于可信度；pending_review 不增加事实可信度。"
+    },
+    {
+      "id": "cc-seed-048",
+      "title": "奴儿干都司是否等于现代行政省",
+      "networkHeatScore": 88,
+      "evidenceGapScore": 66,
+      "reviewPriorityScore": 90,
+      "highRiskScore": 80,
+      "highValueEvidenceScore": 60,
+      "note": "热度不等于可信度；pending_review 不增加事实可信度。"
+    },
+    {
+      "id": "cc-seed-050",
+      "title": "哈密卫是否说明明朝控制中亚",
+      "networkHeatScore": 88,
+      "evidenceGapScore": 66,
+      "reviewPriorityScore": 90,
+      "highRiskScore": 80,
+      "highValueEvidenceScore": 60,
+      "note": "热度不等于可信度；pending_review 不增加事实可信度。"
+    },
+    {
+      "id": "cc-seed-003",
+      "title": "大秦是否对应罗马或其他欧洲政权",
+      "networkHeatScore": 63,
+      "evidenceGapScore": 66,
+      "reviewPriorityScore": 65,
+      "highRiskScore": 55,
+      "highValueEvidenceScore": 60,
+      "note": "热度不等于可信度；pending_review 不增加事实可信度。"
+    },
+    {
+      "id": "cc-seed-006",
+      "title": "明代舆图是否记录全球地理",
+      "networkHeatScore": 63,
+      "evidenceGapScore": 66,
+      "reviewPriorityScore": 65,
+      "highRiskScore": 55,
+      "highValueEvidenceScore": 60,
+      "note": "热度不等于可信度；pending_review 不增加事实可信度。"
+    },
+    {
+      "id": "cc-seed-007",
+      "title": "明代火器是否领先欧洲",
+      "networkHeatScore": 63,
+      "evidenceGapScore": 66,
+      "reviewPriorityScore": 65,
+      "highRiskScore": 55,
+      "highValueEvidenceScore": 60,
+      "note": "热度不等于可信度；pending_review 不增加事实可信度。"
+    },
+    {
+      "id": "cc-seed-008",
+      "title": "永乐朝是否存在全球朝贡体系",
+      "networkHeatScore": 63,
+      "evidenceGapScore": 66,
+      "reviewPriorityScore": 65,
+      "highRiskScore": 55,
+      "highValueEvidenceScore": 60,
+      "note": "热度不等于可信度；pending_review 不增加事实可信度。"
+    },
+    {
+      "id": "cc-seed-009",
+      "title": "万历不上朝是否等于国家机器停摆",
+      "networkHeatScore": 63,
+      "evidenceGapScore": 66,
+      "reviewPriorityScore": 65,
+      "highRiskScore": 55,
+      "highValueEvidenceScore": 60,
+      "note": "热度不等于可信度；pending_review 不增加事实可信度。"
+    },
+    {
+      "id": "cc-seed-010",
+      "title": "天启木匠皇帝标签是否过度脸谱化",
+      "networkHeatScore": 63,
+      "evidenceGapScore": 66,
+      "reviewPriorityScore": 65,
+      "highRiskScore": 55,
+      "highValueEvidenceScore": 60,
+      "note": "热度不等于可信度；pending_review 不增加事实可信度。"
+    },
+    {
+      "id": "cc-seed-011",
+      "title": "崇祯亡国责任是否被过度简化",
+      "networkHeatScore": 63,
+      "evidenceGapScore": 66,
+      "reviewPriorityScore": 65,
+      "highRiskScore": 55,
+      "highValueEvidenceScore": 60,
+      "note": "热度不等于可信度；pending_review 不增加事实可信度。"
+    },
+    {
+      "id": "cc-seed-012",
+      "title": "清修明史是否系统性贬低明朝皇帝",
+      "networkHeatScore": 63,
+      "evidenceGapScore": 66,
+      "reviewPriorityScore": 65,
+      "highRiskScore": 55,
+      "highValueEvidenceScore": 60,
+      "note": "热度不等于可信度；pending_review 不增加事实可信度。"
+    },
+    {
+      "id": "cc-seed-013",
+      "title": "洪武废相是否必然导致明代专制失控",
+      "networkHeatScore": 63,
+      "evidenceGapScore": 66,
+      "reviewPriorityScore": 65,
+      "highRiskScore": 55,
+      "highValueEvidenceScore": 60,
+      "note": "热度不等于可信度；pending_review 不增加事实可信度。"
+    }
+  ],
+  "evidenceGap": [
+    {
+      "id": "cc-seed-001",
+      "title": "阴山是否对应现代阿尔卑斯山",
+      "networkHeatScore": 88,
+      "evidenceGapScore": 66,
+      "reviewPriorityScore": 90,
+      "highRiskScore": 80,
+      "highValueEvidenceScore": 60,
+      "note": "热度不等于可信度；pending_review 不增加事实可信度。"
+    },
+    {
+      "id": "cc-seed-002",
+      "title": "梵蒂冈是否对应明代北京",
+      "networkHeatScore": 88,
+      "evidenceGapScore": 66,
+      "reviewPriorityScore": 90,
+      "highRiskScore": 80,
+      "highValueEvidenceScore": 60,
+      "note": "热度不等于可信度；pending_review 不增加事实可信度。"
+    },
+    {
+      "id": "cc-seed-003",
+      "title": "大秦是否对应罗马或其他欧洲政权",
+      "networkHeatScore": 63,
+      "evidenceGapScore": 66,
+      "reviewPriorityScore": 65,
+      "highRiskScore": 55,
+      "highValueEvidenceScore": 60,
+      "note": "热度不等于可信度；pending_review 不增加事实可信度。"
+    },
+    {
+      "id": "cc-seed-004",
+      "title": "郑和是否抵达美洲",
+      "networkHeatScore": 88,
+      "evidenceGapScore": 66,
+      "reviewPriorityScore": 90,
+      "highRiskScore": 80,
+      "highValueEvidenceScore": 60,
+      "note": "热度不等于可信度；pending_review 不增加事实可信度。"
+    },
+    {
+      "id": "cc-seed-005",
+      "title": "明朝疆域是否覆盖欧洲",
+      "networkHeatScore": 88,
+      "evidenceGapScore": 66,
+      "reviewPriorityScore": 90,
+      "highRiskScore": 80,
+      "highValueEvidenceScore": 60,
+      "note": "热度不等于可信度；pending_review 不增加事实可信度。"
+    },
+    {
+      "id": "cc-seed-006",
+      "title": "明代舆图是否记录全球地理",
+      "networkHeatScore": 63,
+      "evidenceGapScore": 66,
+      "reviewPriorityScore": 65,
+      "highRiskScore": 55,
+      "highValueEvidenceScore": 60,
+      "note": "热度不等于可信度；pending_review 不增加事实可信度。"
+    },
+    {
+      "id": "cc-seed-007",
+      "title": "明代火器是否领先欧洲",
+      "networkHeatScore": 63,
+      "evidenceGapScore": 66,
+      "reviewPriorityScore": 65,
+      "highRiskScore": 55,
+      "highValueEvidenceScore": 60,
+      "note": "热度不等于可信度；pending_review 不增加事实可信度。"
+    },
+    {
+      "id": "cc-seed-008",
+      "title": "永乐朝是否存在全球朝贡体系",
+      "networkHeatScore": 63,
+      "evidenceGapScore": 66,
+      "reviewPriorityScore": 65,
+      "highRiskScore": 55,
+      "highValueEvidenceScore": 60,
+      "note": "热度不等于可信度；pending_review 不增加事实可信度。"
+    },
+    {
+      "id": "cc-seed-009",
+      "title": "万历不上朝是否等于国家机器停摆",
+      "networkHeatScore": 63,
+      "evidenceGapScore": 66,
+      "reviewPriorityScore": 65,
+      "highRiskScore": 55,
+      "highValueEvidenceScore": 60,
+      "note": "热度不等于可信度；pending_review 不增加事实可信度。"
+    },
+    {
+      "id": "cc-seed-010",
+      "title": "天启木匠皇帝标签是否过度脸谱化",
+      "networkHeatScore": 63,
+      "evidenceGapScore": 66,
+      "reviewPriorityScore": 65,
+      "highRiskScore": 55,
+      "highValueEvidenceScore": 60,
+      "note": "热度不等于可信度；pending_review 不增加事实可信度。"
+    },
+    {
+      "id": "cc-seed-011",
+      "title": "崇祯亡国责任是否被过度简化",
+      "networkHeatScore": 63,
+      "evidenceGapScore": 66,
+      "reviewPriorityScore": 65,
+      "highRiskScore": 55,
+      "highValueEvidenceScore": 60,
+      "note": "热度不等于可信度；pending_review 不增加事实可信度。"
+    },
+    {
+      "id": "cc-seed-012",
+      "title": "清修明史是否系统性贬低明朝皇帝",
+      "networkHeatScore": 63,
+      "evidenceGapScore": 66,
+      "reviewPriorityScore": 65,
+      "highRiskScore": 55,
+      "highValueEvidenceScore": 60,
+      "note": "热度不等于可信度；pending_review 不增加事实可信度。"
+    },
+    {
+      "id": "cc-seed-013",
+      "title": "洪武废相是否必然导致明代专制失控",
+      "networkHeatScore": 63,
+      "evidenceGapScore": 66,
+      "reviewPriorityScore": 65,
+      "highRiskScore": 55,
+      "highValueEvidenceScore": 60,
+      "note": "热度不等于可信度；pending_review 不增加事实可信度。"
+    },
+    {
+      "id": "cc-seed-014",
+      "title": "靖难之役是否完全改变明代政治合法性",
+      "networkHeatScore": 63,
+      "evidenceGapScore": 66,
+      "reviewPriorityScore": 65,
+      "highRiskScore": 55,
+      "highValueEvidenceScore": 60,
+      "note": "热度不等于可信度；pending_review 不增加事实可信度。"
+    },
+    {
+      "id": "cc-seed-015",
+      "title": "永乐迁都北京是否主要出于控制欧亚",
+      "networkHeatScore": 88,
+      "evidenceGapScore": 66,
+      "reviewPriorityScore": 90,
+      "highRiskScore": 80,
+      "highValueEvidenceScore": 60,
+      "note": "热度不等于可信度；pending_review 不增加事实可信度。"
+    },
+    {
+      "id": "cc-seed-016",
+      "title": "土木堡之变是否证明明军整体衰弱",
+      "networkHeatScore": 63,
+      "evidenceGapScore": 66,
+      "reviewPriorityScore": 65,
+      "highRiskScore": 55,
+      "highValueEvidenceScore": 60,
+      "note": "热度不等于可信度；pending_review 不增加事实可信度。"
+    },
+    {
+      "id": "cc-seed-017",
+      "title": "于谦北京保卫战作用是否被神化",
+      "networkHeatScore": 63,
+      "evidenceGapScore": 66,
+      "reviewPriorityScore": 65,
+      "highRiskScore": 55,
+      "highValueEvidenceScore": 60,
+      "note": "热度不等于可信度；pending_review 不增加事实可信度。"
+    },
+    {
+      "id": "cc-seed-018",
+      "title": "成化犁庭是否被后世叙事低估",
+      "networkHeatScore": 63,
+      "evidenceGapScore": 66,
+      "reviewPriorityScore": 65,
+      "highRiskScore": 55,
+      "highValueEvidenceScore": 60,
+      "note": "热度不等于可信度；pending_review 不增加事实可信度。"
+    },
+    {
+      "id": "cc-seed-019",
+      "title": "弘治中兴是否只是后世理想化标签",
+      "networkHeatScore": 43,
+      "evidenceGapScore": 66,
+      "reviewPriorityScore": 45,
+      "highRiskScore": 35,
+      "highValueEvidenceScore": 60,
+      "note": "热度不等于可信度；pending_review 不增加事实可信度。"
+    },
+    {
+      "id": "cc-seed-020",
+      "title": "正德荒唐叙事是否需要拆分",
+      "networkHeatScore": 63,
+      "evidenceGapScore": 66,
+      "reviewPriorityScore": 65,
+      "highRiskScore": 55,
+      "highValueEvidenceScore": 60,
+      "note": "热度不等于可信度；pending_review 不增加事实可信度。"
+    }
+  ],
+  "reviewPriority": [
+    {
+      "id": "cc-seed-001",
+      "title": "阴山是否对应现代阿尔卑斯山",
+      "networkHeatScore": 88,
+      "evidenceGapScore": 66,
+      "reviewPriorityScore": 90,
+      "highRiskScore": 80,
+      "highValueEvidenceScore": 60,
+      "note": "热度不等于可信度；pending_review 不增加事实可信度。"
+    },
+    {
+      "id": "cc-seed-002",
+      "title": "梵蒂冈是否对应明代北京",
+      "networkHeatScore": 88,
+      "evidenceGapScore": 66,
+      "reviewPriorityScore": 90,
+      "highRiskScore": 80,
+      "highValueEvidenceScore": 60,
+      "note": "热度不等于可信度；pending_review 不增加事实可信度。"
+    },
+    {
+      "id": "cc-seed-004",
+      "title": "郑和是否抵达美洲",
+      "networkHeatScore": 88,
+      "evidenceGapScore": 66,
+      "reviewPriorityScore": 90,
+      "highRiskScore": 80,
+      "highValueEvidenceScore": 60,
+      "note": "热度不等于可信度；pending_review 不增加事实可信度。"
+    },
+    {
+      "id": "cc-seed-005",
+      "title": "明朝疆域是否覆盖欧洲",
+      "networkHeatScore": 88,
+      "evidenceGapScore": 66,
+      "reviewPriorityScore": 90,
+      "highRiskScore": 80,
+      "highValueEvidenceScore": 60,
+      "note": "热度不等于可信度；pending_review 不增加事实可信度。"
+    },
+    {
+      "id": "cc-seed-015",
+      "title": "永乐迁都北京是否主要出于控制欧亚",
+      "networkHeatScore": 88,
+      "evidenceGapScore": 66,
+      "reviewPriorityScore": 90,
+      "highRiskScore": 80,
+      "highValueEvidenceScore": 60,
+      "note": "热度不等于可信度；pending_review 不增加事实可信度。"
+    },
+    {
+      "id": "cc-seed-044",
+      "title": "明代白银流入是否说明全球金融中心在中国",
+      "networkHeatScore": 88,
+      "evidenceGapScore": 66,
+      "reviewPriorityScore": 90,
+      "highRiskScore": 80,
+      "highValueEvidenceScore": 60,
+      "note": "热度不等于可信度；pending_review 不增加事实可信度。"
+    },
+    {
+      "id": "cc-seed-045",
+      "title": "明朝是否拥有近代意义民族国家结构",
+      "networkHeatScore": 88,
+      "evidenceGapScore": 66,
+      "reviewPriorityScore": 90,
+      "highRiskScore": 80,
+      "highValueEvidenceScore": 60,
+      "note": "热度不等于可信度；pending_review 不增加事实可信度。"
+    },
+    {
+      "id": "cc-seed-046",
+      "title": "明代对西藏控制是否等同直接行政",
+      "networkHeatScore": 88,
+      "evidenceGapScore": 66,
+      "reviewPriorityScore": 90,
+      "highRiskScore": 80,
+      "highValueEvidenceScore": 60,
+      "note": "热度不等于可信度；pending_review 不增加事实可信度。"
+    },
+    {
+      "id": "cc-seed-047",
+      "title": "明代对东北控制是否覆盖整个外东北",
+      "networkHeatScore": 88,
+      "evidenceGapScore": 66,
+      "reviewPriorityScore": 90,
+      "highRiskScore": 80,
+      "highValueEvidenceScore": 60,
+      "note": "热度不等于可信度；pending_review 不增加事实可信度。"
+    },
+    {
+      "id": "cc-seed-048",
+      "title": "奴儿干都司是否等于现代行政省",
+      "networkHeatScore": 88,
+      "evidenceGapScore": 66,
+      "reviewPriorityScore": 90,
+      "highRiskScore": 80,
+      "highValueEvidenceScore": 60,
+      "note": "热度不等于可信度；pending_review 不增加事实可信度。"
+    },
+    {
+      "id": "cc-seed-050",
+      "title": "哈密卫是否说明明朝控制中亚",
+      "networkHeatScore": 88,
+      "evidenceGapScore": 66,
+      "reviewPriorityScore": 90,
+      "highRiskScore": 80,
+      "highValueEvidenceScore": 60,
+      "note": "热度不等于可信度；pending_review 不增加事实可信度。"
+    },
+    {
+      "id": "cc-seed-003",
+      "title": "大秦是否对应罗马或其他欧洲政权",
+      "networkHeatScore": 63,
+      "evidenceGapScore": 66,
+      "reviewPriorityScore": 65,
+      "highRiskScore": 55,
+      "highValueEvidenceScore": 60,
+      "note": "热度不等于可信度；pending_review 不增加事实可信度。"
+    },
+    {
+      "id": "cc-seed-006",
+      "title": "明代舆图是否记录全球地理",
+      "networkHeatScore": 63,
+      "evidenceGapScore": 66,
+      "reviewPriorityScore": 65,
+      "highRiskScore": 55,
+      "highValueEvidenceScore": 60,
+      "note": "热度不等于可信度；pending_review 不增加事实可信度。"
+    },
+    {
+      "id": "cc-seed-007",
+      "title": "明代火器是否领先欧洲",
+      "networkHeatScore": 63,
+      "evidenceGapScore": 66,
+      "reviewPriorityScore": 65,
+      "highRiskScore": 55,
+      "highValueEvidenceScore": 60,
+      "note": "热度不等于可信度；pending_review 不增加事实可信度。"
+    },
+    {
+      "id": "cc-seed-008",
+      "title": "永乐朝是否存在全球朝贡体系",
+      "networkHeatScore": 63,
+      "evidenceGapScore": 66,
+      "reviewPriorityScore": 65,
+      "highRiskScore": 55,
+      "highValueEvidenceScore": 60,
+      "note": "热度不等于可信度；pending_review 不增加事实可信度。"
+    },
+    {
+      "id": "cc-seed-009",
+      "title": "万历不上朝是否等于国家机器停摆",
+      "networkHeatScore": 63,
+      "evidenceGapScore": 66,
+      "reviewPriorityScore": 65,
+      "highRiskScore": 55,
+      "highValueEvidenceScore": 60,
+      "note": "热度不等于可信度；pending_review 不增加事实可信度。"
+    },
+    {
+      "id": "cc-seed-010",
+      "title": "天启木匠皇帝标签是否过度脸谱化",
+      "networkHeatScore": 63,
+      "evidenceGapScore": 66,
+      "reviewPriorityScore": 65,
+      "highRiskScore": 55,
+      "highValueEvidenceScore": 60,
+      "note": "热度不等于可信度；pending_review 不增加事实可信度。"
+    },
+    {
+      "id": "cc-seed-011",
+      "title": "崇祯亡国责任是否被过度简化",
+      "networkHeatScore": 63,
+      "evidenceGapScore": 66,
+      "reviewPriorityScore": 65,
+      "highRiskScore": 55,
+      "highValueEvidenceScore": 60,
+      "note": "热度不等于可信度；pending_review 不增加事实可信度。"
+    },
+    {
+      "id": "cc-seed-012",
+      "title": "清修明史是否系统性贬低明朝皇帝",
+      "networkHeatScore": 63,
+      "evidenceGapScore": 66,
+      "reviewPriorityScore": 65,
+      "highRiskScore": 55,
+      "highValueEvidenceScore": 60,
+      "note": "热度不等于可信度；pending_review 不增加事实可信度。"
+    },
+    {
+      "id": "cc-seed-013",
+      "title": "洪武废相是否必然导致明代专制失控",
+      "networkHeatScore": 63,
+      "evidenceGapScore": 66,
+      "reviewPriorityScore": 65,
+      "highRiskScore": 55,
+      "highValueEvidenceScore": 60,
+      "note": "热度不等于可信度；pending_review 不增加事实可信度。"
+    }
+  ],
+  "highRisk": [
+    {
+      "id": "cc-seed-001",
+      "title": "阴山是否对应现代阿尔卑斯山",
+      "networkHeatScore": 88,
+      "evidenceGapScore": 66,
+      "reviewPriorityScore": 90,
+      "highRiskScore": 80,
+      "highValueEvidenceScore": 60,
+      "note": "热度不等于可信度；pending_review 不增加事实可信度。"
+    },
+    {
+      "id": "cc-seed-002",
+      "title": "梵蒂冈是否对应明代北京",
+      "networkHeatScore": 88,
+      "evidenceGapScore": 66,
+      "reviewPriorityScore": 90,
+      "highRiskScore": 80,
+      "highValueEvidenceScore": 60,
+      "note": "热度不等于可信度；pending_review 不增加事实可信度。"
+    },
+    {
+      "id": "cc-seed-004",
+      "title": "郑和是否抵达美洲",
+      "networkHeatScore": 88,
+      "evidenceGapScore": 66,
+      "reviewPriorityScore": 90,
+      "highRiskScore": 80,
+      "highValueEvidenceScore": 60,
+      "note": "热度不等于可信度；pending_review 不增加事实可信度。"
+    },
+    {
+      "id": "cc-seed-005",
+      "title": "明朝疆域是否覆盖欧洲",
+      "networkHeatScore": 88,
+      "evidenceGapScore": 66,
+      "reviewPriorityScore": 90,
+      "highRiskScore": 80,
+      "highValueEvidenceScore": 60,
+      "note": "热度不等于可信度；pending_review 不增加事实可信度。"
+    },
+    {
+      "id": "cc-seed-015",
+      "title": "永乐迁都北京是否主要出于控制欧亚",
+      "networkHeatScore": 88,
+      "evidenceGapScore": 66,
+      "reviewPriorityScore": 90,
+      "highRiskScore": 80,
+      "highValueEvidenceScore": 60,
+      "note": "热度不等于可信度；pending_review 不增加事实可信度。"
+    },
+    {
+      "id": "cc-seed-044",
+      "title": "明代白银流入是否说明全球金融中心在中国",
+      "networkHeatScore": 88,
+      "evidenceGapScore": 66,
+      "reviewPriorityScore": 90,
+      "highRiskScore": 80,
+      "highValueEvidenceScore": 60,
+      "note": "热度不等于可信度；pending_review 不增加事实可信度。"
+    },
+    {
+      "id": "cc-seed-045",
+      "title": "明朝是否拥有近代意义民族国家结构",
+      "networkHeatScore": 88,
+      "evidenceGapScore": 66,
+      "reviewPriorityScore": 90,
+      "highRiskScore": 80,
+      "highValueEvidenceScore": 60,
+      "note": "热度不等于可信度；pending_review 不增加事实可信度。"
+    },
+    {
+      "id": "cc-seed-046",
+      "title": "明代对西藏控制是否等同直接行政",
+      "networkHeatScore": 88,
+      "evidenceGapScore": 66,
+      "reviewPriorityScore": 90,
+      "highRiskScore": 80,
+      "highValueEvidenceScore": 60,
+      "note": "热度不等于可信度；pending_review 不增加事实可信度。"
+    },
+    {
+      "id": "cc-seed-047",
+      "title": "明代对东北控制是否覆盖整个外东北",
+      "networkHeatScore": 88,
+      "evidenceGapScore": 66,
+      "reviewPriorityScore": 90,
+      "highRiskScore": 80,
+      "highValueEvidenceScore": 60,
+      "note": "热度不等于可信度；pending_review 不增加事实可信度。"
+    },
+    {
+      "id": "cc-seed-048",
+      "title": "奴儿干都司是否等于现代行政省",
+      "networkHeatScore": 88,
+      "evidenceGapScore": 66,
+      "reviewPriorityScore": 90,
+      "highRiskScore": 80,
+      "highValueEvidenceScore": 60,
+      "note": "热度不等于可信度；pending_review 不增加事实可信度。"
+    },
+    {
+      "id": "cc-seed-050",
+      "title": "哈密卫是否说明明朝控制中亚",
+      "networkHeatScore": 88,
+      "evidenceGapScore": 66,
+      "reviewPriorityScore": 90,
+      "highRiskScore": 80,
+      "highValueEvidenceScore": 60,
+      "note": "热度不等于可信度；pending_review 不增加事实可信度。"
+    },
+    {
+      "id": "cc-seed-003",
+      "title": "大秦是否对应罗马或其他欧洲政权",
+      "networkHeatScore": 63,
+      "evidenceGapScore": 66,
+      "reviewPriorityScore": 65,
+      "highRiskScore": 55,
+      "highValueEvidenceScore": 60,
+      "note": "热度不等于可信度；pending_review 不增加事实可信度。"
+    },
+    {
+      "id": "cc-seed-006",
+      "title": "明代舆图是否记录全球地理",
+      "networkHeatScore": 63,
+      "evidenceGapScore": 66,
+      "reviewPriorityScore": 65,
+      "highRiskScore": 55,
+      "highValueEvidenceScore": 60,
+      "note": "热度不等于可信度；pending_review 不增加事实可信度。"
+    },
+    {
+      "id": "cc-seed-007",
+      "title": "明代火器是否领先欧洲",
+      "networkHeatScore": 63,
+      "evidenceGapScore": 66,
+      "reviewPriorityScore": 65,
+      "highRiskScore": 55,
+      "highValueEvidenceScore": 60,
+      "note": "热度不等于可信度；pending_review 不增加事实可信度。"
+    },
+    {
+      "id": "cc-seed-008",
+      "title": "永乐朝是否存在全球朝贡体系",
+      "networkHeatScore": 63,
+      "evidenceGapScore": 66,
+      "reviewPriorityScore": 65,
+      "highRiskScore": 55,
+      "highValueEvidenceScore": 60,
+      "note": "热度不等于可信度；pending_review 不增加事实可信度。"
+    },
+    {
+      "id": "cc-seed-009",
+      "title": "万历不上朝是否等于国家机器停摆",
+      "networkHeatScore": 63,
+      "evidenceGapScore": 66,
+      "reviewPriorityScore": 65,
+      "highRiskScore": 55,
+      "highValueEvidenceScore": 60,
+      "note": "热度不等于可信度；pending_review 不增加事实可信度。"
+    },
+    {
+      "id": "cc-seed-010",
+      "title": "天启木匠皇帝标签是否过度脸谱化",
+      "networkHeatScore": 63,
+      "evidenceGapScore": 66,
+      "reviewPriorityScore": 65,
+      "highRiskScore": 55,
+      "highValueEvidenceScore": 60,
+      "note": "热度不等于可信度；pending_review 不增加事实可信度。"
+    },
+    {
+      "id": "cc-seed-011",
+      "title": "崇祯亡国责任是否被过度简化",
+      "networkHeatScore": 63,
+      "evidenceGapScore": 66,
+      "reviewPriorityScore": 65,
+      "highRiskScore": 55,
+      "highValueEvidenceScore": 60,
+      "note": "热度不等于可信度；pending_review 不增加事实可信度。"
+    },
+    {
+      "id": "cc-seed-012",
+      "title": "清修明史是否系统性贬低明朝皇帝",
+      "networkHeatScore": 63,
+      "evidenceGapScore": 66,
+      "reviewPriorityScore": 65,
+      "highRiskScore": 55,
+      "highValueEvidenceScore": 60,
+      "note": "热度不等于可信度；pending_review 不增加事实可信度。"
+    },
+    {
+      "id": "cc-seed-013",
+      "title": "洪武废相是否必然导致明代专制失控",
+      "networkHeatScore": 63,
+      "evidenceGapScore": 66,
+      "reviewPriorityScore": 65,
+      "highRiskScore": 55,
+      "highValueEvidenceScore": 60,
+      "note": "热度不等于可信度；pending_review 不增加事实可信度。"
+    }
+  ],
+  "highValueEvidence": [
+    {
+      "id": "cc-seed-001",
+      "title": "阴山是否对应现代阿尔卑斯山",
+      "networkHeatScore": 88,
+      "evidenceGapScore": 66,
+      "reviewPriorityScore": 90,
+      "highRiskScore": 80,
+      "highValueEvidenceScore": 60,
+      "note": "热度不等于可信度；pending_review 不增加事实可信度。"
+    },
+    {
+      "id": "cc-seed-002",
+      "title": "梵蒂冈是否对应明代北京",
+      "networkHeatScore": 88,
+      "evidenceGapScore": 66,
+      "reviewPriorityScore": 90,
+      "highRiskScore": 80,
+      "highValueEvidenceScore": 60,
+      "note": "热度不等于可信度；pending_review 不增加事实可信度。"
+    },
+    {
+      "id": "cc-seed-003",
+      "title": "大秦是否对应罗马或其他欧洲政权",
+      "networkHeatScore": 63,
+      "evidenceGapScore": 66,
+      "reviewPriorityScore": 65,
+      "highRiskScore": 55,
+      "highValueEvidenceScore": 60,
+      "note": "热度不等于可信度；pending_review 不增加事实可信度。"
+    },
+    {
+      "id": "cc-seed-004",
+      "title": "郑和是否抵达美洲",
+      "networkHeatScore": 88,
+      "evidenceGapScore": 66,
+      "reviewPriorityScore": 90,
+      "highRiskScore": 80,
+      "highValueEvidenceScore": 60,
+      "note": "热度不等于可信度；pending_review 不增加事实可信度。"
+    },
+    {
+      "id": "cc-seed-005",
+      "title": "明朝疆域是否覆盖欧洲",
+      "networkHeatScore": 88,
+      "evidenceGapScore": 66,
+      "reviewPriorityScore": 90,
+      "highRiskScore": 80,
+      "highValueEvidenceScore": 60,
+      "note": "热度不等于可信度；pending_review 不增加事实可信度。"
+    },
+    {
+      "id": "cc-seed-006",
+      "title": "明代舆图是否记录全球地理",
+      "networkHeatScore": 63,
+      "evidenceGapScore": 66,
+      "reviewPriorityScore": 65,
+      "highRiskScore": 55,
+      "highValueEvidenceScore": 60,
+      "note": "热度不等于可信度；pending_review 不增加事实可信度。"
+    },
+    {
+      "id": "cc-seed-007",
+      "title": "明代火器是否领先欧洲",
+      "networkHeatScore": 63,
+      "evidenceGapScore": 66,
+      "reviewPriorityScore": 65,
+      "highRiskScore": 55,
+      "highValueEvidenceScore": 60,
+      "note": "热度不等于可信度；pending_review 不增加事实可信度。"
+    },
+    {
+      "id": "cc-seed-008",
+      "title": "永乐朝是否存在全球朝贡体系",
+      "networkHeatScore": 63,
+      "evidenceGapScore": 66,
+      "reviewPriorityScore": 65,
+      "highRiskScore": 55,
+      "highValueEvidenceScore": 60,
+      "note": "热度不等于可信度；pending_review 不增加事实可信度。"
+    },
+    {
+      "id": "cc-seed-009",
+      "title": "万历不上朝是否等于国家机器停摆",
+      "networkHeatScore": 63,
+      "evidenceGapScore": 66,
+      "reviewPriorityScore": 65,
+      "highRiskScore": 55,
+      "highValueEvidenceScore": 60,
+      "note": "热度不等于可信度；pending_review 不增加事实可信度。"
+    },
+    {
+      "id": "cc-seed-010",
+      "title": "天启木匠皇帝标签是否过度脸谱化",
+      "networkHeatScore": 63,
+      "evidenceGapScore": 66,
+      "reviewPriorityScore": 65,
+      "highRiskScore": 55,
+      "highValueEvidenceScore": 60,
+      "note": "热度不等于可信度；pending_review 不增加事实可信度。"
+    },
+    {
+      "id": "cc-seed-011",
+      "title": "崇祯亡国责任是否被过度简化",
+      "networkHeatScore": 63,
+      "evidenceGapScore": 66,
+      "reviewPriorityScore": 65,
+      "highRiskScore": 55,
+      "highValueEvidenceScore": 60,
+      "note": "热度不等于可信度；pending_review 不增加事实可信度。"
+    },
+    {
+      "id": "cc-seed-012",
+      "title": "清修明史是否系统性贬低明朝皇帝",
+      "networkHeatScore": 63,
+      "evidenceGapScore": 66,
+      "reviewPriorityScore": 65,
+      "highRiskScore": 55,
+      "highValueEvidenceScore": 60,
+      "note": "热度不等于可信度；pending_review 不增加事实可信度。"
+    },
+    {
+      "id": "cc-seed-013",
+      "title": "洪武废相是否必然导致明代专制失控",
+      "networkHeatScore": 63,
+      "evidenceGapScore": 66,
+      "reviewPriorityScore": 65,
+      "highRiskScore": 55,
+      "highValueEvidenceScore": 60,
+      "note": "热度不等于可信度；pending_review 不增加事实可信度。"
+    },
+    {
+      "id": "cc-seed-014",
+      "title": "靖难之役是否完全改变明代政治合法性",
+      "networkHeatScore": 63,
+      "evidenceGapScore": 66,
+      "reviewPriorityScore": 65,
+      "highRiskScore": 55,
+      "highValueEvidenceScore": 60,
+      "note": "热度不等于可信度；pending_review 不增加事实可信度。"
+    },
+    {
+      "id": "cc-seed-015",
+      "title": "永乐迁都北京是否主要出于控制欧亚",
+      "networkHeatScore": 88,
+      "evidenceGapScore": 66,
+      "reviewPriorityScore": 90,
+      "highRiskScore": 80,
+      "highValueEvidenceScore": 60,
+      "note": "热度不等于可信度；pending_review 不增加事实可信度。"
+    },
+    {
+      "id": "cc-seed-016",
+      "title": "土木堡之变是否证明明军整体衰弱",
+      "networkHeatScore": 63,
+      "evidenceGapScore": 66,
+      "reviewPriorityScore": 65,
+      "highRiskScore": 55,
+      "highValueEvidenceScore": 60,
+      "note": "热度不等于可信度；pending_review 不增加事实可信度。"
+    },
+    {
+      "id": "cc-seed-017",
+      "title": "于谦北京保卫战作用是否被神化",
+      "networkHeatScore": 63,
+      "evidenceGapScore": 66,
+      "reviewPriorityScore": 65,
+      "highRiskScore": 55,
+      "highValueEvidenceScore": 60,
+      "note": "热度不等于可信度；pending_review 不增加事实可信度。"
+    },
+    {
+      "id": "cc-seed-018",
+      "title": "成化犁庭是否被后世叙事低估",
+      "networkHeatScore": 63,
+      "evidenceGapScore": 66,
+      "reviewPriorityScore": 65,
+      "highRiskScore": 55,
+      "highValueEvidenceScore": 60,
+      "note": "热度不等于可信度；pending_review 不增加事实可信度。"
+    },
+    {
+      "id": "cc-seed-019",
+      "title": "弘治中兴是否只是后世理想化标签",
+      "networkHeatScore": 43,
+      "evidenceGapScore": 66,
+      "reviewPriorityScore": 45,
+      "highRiskScore": 35,
+      "highValueEvidenceScore": 60,
+      "note": "热度不等于可信度；pending_review 不增加事实可信度。"
+    },
+    {
+      "id": "cc-seed-020",
+      "title": "正德荒唐叙事是否需要拆分",
+      "networkHeatScore": 63,
+      "evidenceGapScore": 66,
+      "reviewPriorityScore": 65,
+      "highRiskScore": 55,
+      "highValueEvidenceScore": 60,
+      "note": "热度不等于可信度；pending_review 不增加事实可信度。"
+    }
+  ]
+}

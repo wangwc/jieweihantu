@@ -1,0 +1,93 @@
+[
+  {
+    "id": "stg-territory-demo-001",
+    "entityKind": "territory",
+    "importBatchId": "batch-demo-005",
+    "rawPayload": {
+      "title": "CHGIS 点位占位"
+    },
+    "normalizedPayload": {
+      "title": "CHGIS 点位占位",
+      "controlType": "直接行政区",
+      "yearStart": 1400,
+      "yearEnd": 1644
+    },
+    "detectedSourceLayer": "C",
+    "detectedSourceType": "开放地理数据",
+    "confidence": 0.69,
+    "duplicateCandidateIds": [],
+    "suggestedLinks": [],
+    "validationWarnings": [
+      "地理数据必须保留 controlType，不能表达为现代主权边界。"
+    ],
+    "validationErrors": [],
+    "reviewStatus": "pending_review",
+    "reviewerNote": "审核后才能进入 TerritoryLayer。",
+    "demoOnly": true,
+    "createdAt": "2026-06-07T12:40:00+08:00",
+    "updatedAt": "2026-06-07T12:40:00+08:00"
+  },
+  {
+    "id": "stg-chgis-manifest-001",
+    "entityKind": "territory",
+    "importBatchId": "batch-seed-chgis",
+    "rawPayload": {
+      "id": "chgis-manifest-001",
+      "importBatchId": "batch-seed-chgis",
+      "sourceId": "seed-source-chgis",
+      "datasetName": "CHGIS Ming place and boundary files",
+      "filePathOrUrl": "data-seed/raw/chgis/put-real-chgis-geojson-here.geojson",
+      "format": "GeoJSON",
+      "title": "CHGIS Ming place and boundary files",
+      "controlType": "",
+      "sourceLayer": "C",
+      "citation": "CHGIS citation required",
+      "licenseNote": "User must copy CHGIS license here before import",
+      "reviewStatus": "pending_review",
+      "suggestedLinks": [],
+      "validationWarnings": [
+        "controlType 缺失，不能生成正式 Territory。"
+      ],
+      "notes": "Placeholder manifest only; missing file should generate report",
+      "demoOnly": true,
+      "createdAt": "2026-06-07T05:32:37.398Z",
+      "updatedAt": "2026-06-07T05:32:37.398Z"
+    },
+    "normalizedPayload": {
+      "id": "chgis-manifest-001",
+      "importBatchId": "batch-seed-chgis",
+      "sourceId": "seed-source-chgis",
+      "datasetName": "CHGIS Ming place and boundary files",
+      "filePathOrUrl": "data-seed/raw/chgis/put-real-chgis-geojson-here.geojson",
+      "format": "GeoJSON",
+      "title": "CHGIS Ming place and boundary files",
+      "controlType": "",
+      "sourceLayer": "C",
+      "citation": "CHGIS citation required",
+      "licenseNote": "User must copy CHGIS license here before import",
+      "reviewStatus": "pending_review",
+      "suggestedLinks": [],
+      "validationWarnings": [
+        "controlType 缺失，不能生成正式 Territory。"
+      ],
+      "notes": "Placeholder manifest only; missing file should generate report",
+      "demoOnly": true,
+      "createdAt": "2026-06-07T05:32:37.398Z",
+      "updatedAt": "2026-06-07T05:32:37.398Z"
+    },
+    "detectedSourceLayer": "C",
+    "detectedSourceType": "seed",
+    "confidence": 0.5,
+    "duplicateCandidateIds": [],
+    "suggestedLinks": [],
+    "validationWarnings": [
+      "controlType 缺失，不能生成正式 Territory。"
+    ],
+    "validationErrors": [],
+    "reviewStatus": "pending_review",
+    "reviewerNote": "Seed Builder generated; manual review required.",
+    "demoOnly": true,
+    "createdAt": "2026-06-07T05:32:37.558Z",
+    "updatedAt": "2026-06-07T05:32:37.558Z"
+  }
+]

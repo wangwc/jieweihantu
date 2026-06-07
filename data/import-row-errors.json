@@ -1,0 +1,15 @@
+[
+  {
+    "id": "row-error-demo-001",
+    "importBatchId": "batch-demo-003",
+    "rowNumber": 2,
+    "entityType": "text-chunk",
+    "rawPayload": {
+      "title": "示例错误行"
+    },
+    "message": "示例错误：缺少 sourceId 或 licenseNote。",
+    "severity": "warning",
+    "createdAt": "2026-06-07T12:40:00+08:00",
+    "demoOnly": true
+  }
+]

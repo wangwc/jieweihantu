@@ -1,0 +1,3 @@
+id,sourceTitle,sourceType,sourceLayer,dynastyOrDate,title,originalText,translationOrSummary,citation,url,licenseNote,demoOnly
+hist-demo-001,明代实录资料入口占位,明代实录,S,明代,万历朝政运行片段占位,待录入原文,示例摘要：仅用于切分 TextChunk,示例引用：待补正式引用,https://example.org/ming-records/text,示例许可说明：真实导入需确认授权,true
+hist-demo-002,现代论文数据库入口占位,现代论文,C,现代,晚明财政研究片段占位,待录入原文,示例摘要：仅用于导入流程演示,示例引用：待补正式引用,https://example.org/papers/demo,示例许可说明：遵守数据库许可,true

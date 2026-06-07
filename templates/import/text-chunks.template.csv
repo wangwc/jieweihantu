@@ -1,0 +1,2 @@
+id,sourceId,title,dynastyOrDate,volume,page,originalText,translationOrSummary,keywords,citation,url,licenseNote,demoOnly
+textchunk-demo-import-001,source-001,万历朝政运行片段占位,明代,待补卷次,待补页码,待录入原文,示例摘要,万历|朝政|奏疏,示例引用：待补正式引用,https://example.org/textchunk,示例许可说明,true

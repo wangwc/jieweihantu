@@ -1,0 +1,2 @@
+id,title,yearStart,yearEnd,controlType,longitude,latitude,sourceId,citation,licenseNote,demoOnly
+chgis-demo-001,CHGIS 地点占位,1400,1644,直接行政区,118.78,32.04,source-005,示例引用：待补数据集版本,示例许可说明,true

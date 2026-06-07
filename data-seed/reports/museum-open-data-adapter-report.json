@@ -1,0 +1,42 @@
+{
+  "sourceRecords": [
+    {
+      "id": "seed-source-museum-open-data",
+      "title": "Museum Open Data",
+      "sourceType": "museum",
+      "sourceLayer": "A",
+      "institution": "Museum Open Data",
+      "author": "",
+      "dynastyOrDate": "seed",
+      "url": "",
+      "accessMethod": "museum",
+      "licenseNote": "Keep institution-specific license or access statement for every artifact.",
+      "citation": "Museum collection citation and URL required.",
+      "citationFormat": "Museum collection citation and URL required.",
+      "reliabilityNote": "Preserve collectionUrl and licenseNote.",
+      "allowedUsage": "Artifact metadata only; do not download restricted images.",
+      "importMethod": "csv",
+      "reviewRequired": true,
+      "status": "pending",
+      "sampleMediaAssets": [],
+      "demoOnly": true,
+      "createdAt": "2026-06-07T05:32:37.287Z",
+      "updatedAt": "2026-06-07T05:32:37.287Z"
+    }
+  ],
+  "normalizedRecords": [
+    {
+      "id": "museum-manifest-001",
+      "datasetName": "Museum Ming artifacts open data",
+      "filePathOrUrl": "data-seed/raw/museum/put-real-museum-artifacts-here.csv",
+      "format": "CSV",
+      "sourceLayer": "A",
+      "licenseNote": "User must copy institution license here before import",
+      "citationFormat": "Museum collection citation and URL required",
+      "enabled": "true",
+      "notes": "Placeholder manifest only; missing file should generate report"
+    }
+  ],
+  "warnings": [],
+  "errors": []
+}

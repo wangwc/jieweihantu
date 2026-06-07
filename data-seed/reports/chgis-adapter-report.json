@@ -1,0 +1,42 @@
+{
+  "sourceRecords": [
+    {
+      "id": "seed-source-chgis",
+      "title": "CHGIS",
+      "sourceType": "open_data",
+      "sourceLayer": "C",
+      "institution": "CHGIS",
+      "author": "",
+      "dynastyOrDate": "seed",
+      "url": "",
+      "accessMethod": "chgis",
+      "licenseNote": "User must provide license text from the downloaded CHGIS package.",
+      "citation": "CHGIS dataset citation required before promotion.",
+      "citationFormat": "CHGIS dataset citation required before promotion.",
+      "reliabilityNote": "Territory and place candidates only.",
+      "allowedUsage": "Open data manifest only; no territorial conclusions.",
+      "importMethod": "open-data",
+      "reviewRequired": true,
+      "status": "pending",
+      "sampleMediaAssets": [],
+      "demoOnly": true,
+      "createdAt": "2026-06-07T05:32:37.253Z",
+      "updatedAt": "2026-06-07T05:32:37.253Z"
+    }
+  ],
+  "normalizedRecords": [
+    {
+      "id": "chgis-manifest-001",
+      "datasetName": "CHGIS Ming place and boundary files",
+      "filePathOrUrl": "data-seed/raw/chgis/put-real-chgis-geojson-here.geojson",
+      "format": "GeoJSON",
+      "sourceLayer": "C",
+      "licenseNote": "User must copy CHGIS license here before import",
+      "citationFormat": "CHGIS citation required",
+      "enabled": "true",
+      "notes": "Placeholder manifest only; missing file should generate report"
+    }
+  ],
+  "warnings": [],
+  "errors": []
+}

@@ -1,0 +1,80 @@
+{
+  "id": "seed-fetch-20260607053237390",
+  "generatedAt": "2026-06-07T05:32:37.391Z",
+  "allowNetwork": false,
+  "sources": [
+    {
+      "id": "chgis",
+      "name": "CHGIS",
+      "enabled": true,
+      "adapter": "chgis",
+      "status": "checked"
+    },
+    {
+      "id": "cbdb",
+      "name": "CBDB",
+      "enabled": true,
+      "adapter": "cbdb",
+      "status": "checked"
+    },
+    {
+      "id": "museum-open-data",
+      "name": "Museum Open Data",
+      "enabled": true,
+      "adapter": "museum",
+      "status": "checked"
+    },
+    {
+      "id": "mediawiki-historical-text",
+      "name": "Wikisource / MediaWiki Historical Text",
+      "enabled": true,
+      "adapter": "mediawiki-text",
+      "status": "checked"
+    },
+    {
+      "id": "local-historical-text",
+      "name": "Local Historical Text",
+      "enabled": true,
+      "adapter": "local-file",
+      "status": "checked"
+    },
+    {
+      "id": "controversial-url-list",
+      "name": "Controversial Claims URL List",
+      "enabled": true,
+      "adapter": "controversial-url-list",
+      "status": "checked"
+    }
+  ],
+  "warnings": [
+    {
+      "id": "missing-raw-chgis-chgis-manifest-001",
+      "sourceId": "chgis",
+      "filePath": "data-seed/raw/chgis/put-real-chgis-geojson-here.geojson",
+      "severity": "warning",
+      "message": "Manifest points to a local raw file that is not present. The seed flow will report it and continue."
+    },
+    {
+      "id": "missing-raw-cbdb-cbdb-manifest-001",
+      "sourceId": "cbdb",
+      "filePath": "data-seed/raw/cbdb/put-real-cbdb-export-here.csv",
+      "severity": "warning",
+      "message": "Manifest points to a local raw file that is not present. The seed flow will report it and continue."
+    },
+    {
+      "id": "missing-raw-museum-open-data-museum-manifest-001",
+      "sourceId": "museum-open-data",
+      "filePath": "data-seed/raw/museum/put-real-museum-artifacts-here.csv",
+      "severity": "warning",
+      "message": "Manifest points to a local raw file that is not present. The seed flow will report it and continue."
+    },
+    {
+      "id": "missing-local-historical-text",
+      "sourceId": "local-historical-text",
+      "filePath": "data-seed\\raw\\historical-text\\local-historical-text.page-list.csv",
+      "severity": "warning",
+      "message": "Raw source is not available. Seed builder records this as missing data instead of fabricating records."
+    }
+  ],
+  "errors": []
+}

@@ -35,9 +35,25 @@ export type ReviewStatus = "draft" | "pending_review" | "reviewed" | "disputed" 
 export type VerificationStatus = "未审核" | "初审" | "复审" | "已确认" | "已废弃";
 export type RiskLevel = "low" | "medium" | "high";
 export type ImportType = "csv" | "json" | "manual" | "open-data";
-export type ImportEntityType = "source" | "lead" | "claim" | "evidence" | "artifact" | "territory";
+export type ImportEntityType =
+  | "source"
+  | "lead"
+  | "claim"
+  | "evidence"
+  | "artifact"
+  | "territory"
+  | "person"
+  | "text-chunk"
+  | "controversial-claim"
+  | "evidence-task"
+  | "staging";
 export type ImportStatus = "pending" | "success" | "failed" | "partial_success";
 export type AuditAction = "create" | "update" | "approve" | "reject" | "archive" | "restore";
+export type ControversialClaimStatus = "待核验" | "待补证据" | "待审核" | "已转入证据流程" | "已驳回" | "暂存";
+export type AlternativeLeadKind = "url" | "article" | "subtitle";
+export type EvidenceTaskStatus = "待补资料" | "检索中" | "待审核" | "已补充" | "已关闭";
+export type StagingReviewStatus = "pending_review" | "approved" | "rejected" | "merged";
+export type StagingEntityKind = "source" | "lead" | "claim" | "evidence" | "text-chunk" | "artifact" | "territory" | "person";
 
 export interface MediaAsset {
   id: string;
@@ -76,6 +92,65 @@ export interface SourceRegistry {
   demoOnly: boolean;
   createdAt: string;
   updatedAt: string;
+}
+
+export interface SuggestedLink {
+  entityType: ImportEntityType;
+  entityId: string;
+  label: string;
+  reason: string;
+  confidence: number;
+}
+
+export interface StagingBase<TNormalized = Record<string, unknown>> {
+  id: string;
+  importBatchId: string;
+  rawPayload: Record<string, unknown>;
+  normalizedPayload: TNormalized;
+  detectedSourceLayer: SourceLayer;
+  detectedSourceType: string;
+  confidence: number;
+  duplicateCandidateIds: string[];
+  suggestedLinks: SuggestedLink[];
+  validationWarnings: string[];
+  validationErrors: string[];
+  reviewStatus: StagingReviewStatus;
+  reviewerNote: string;
+  demoOnly: boolean;
+  createdAt: string;
+  updatedAt: string;
+}
+
+export interface StagingSource extends StagingBase<Partial<SourceRegistry>> {
+  entityKind: "source";
+}
+
+export interface StagingLead extends StagingBase<Partial<LeadItem>> {
+  entityKind: "lead";
+}
+
+export interface StagingClaim extends StagingBase<Partial<HistoricalClaim> & { controversial?: boolean }> {
+  entityKind: "claim";
+}
+
+export interface StagingEvidence extends StagingBase<Partial<EvidenceItem>> {
+  entityKind: "evidence";
+}
+
+export interface StagingTextChunk extends StagingBase<Partial<TextChunk>> {
+  entityKind: "text-chunk";
+}
+
+export interface StagingArtifact extends StagingBase<Partial<Artifact>> {
+  entityKind: "artifact";
+}
+
+export interface StagingTerritory extends StagingBase<Partial<TerritoryLayer>> {
+  entityKind: "territory";
+}
+
+export interface StagingPerson extends StagingBase<Partial<PersonProfile>> {
+  entityKind: "person";
 }
 
 export type Source = SourceRegistry & {
@@ -151,6 +226,62 @@ export interface EvidenceItem {
   updatedAt: string;
 }
 
+export interface TextChunk {
+  id: string;
+  sourceId: string;
+  title: string;
+  dynastyOrDate: string;
+  volume: string;
+  page: string;
+  originalText: string;
+  translationOrSummary: string;
+  keywords: string[];
+  personIds: string[];
+  placeIds: string[];
+  candidateClaimIds: string[];
+  citation: string;
+  url?: string;
+  licenseNote: string;
+  reviewStatus: StagingReviewStatus;
+  createdAt: string;
+  updatedAt: string;
+  demoOnly: boolean;
+}
+
+export interface Artifact {
+  id: string;
+  title: string;
+  artifactType: string;
+  institution: string;
+  sourceId: string;
+  dynastyOrDate: string;
+  url?: string;
+  imageUrl?: string;
+  licenseNote: string;
+  citation: string;
+  relatedClaimIds: string[];
+  reviewStatus: StagingReviewStatus;
+  createdAt: string;
+  updatedAt: string;
+  demoOnly: boolean;
+}
+
+export interface PersonProfile {
+  id: string;
+  name: string;
+  reignYears?: string;
+  nativePlace?: string;
+  dynastyOrDate: string;
+  sourceId: string;
+  relatedClaimIds: string[];
+  citation: string;
+  licenseNote: string;
+  reviewStatus: StagingReviewStatus;
+  createdAt: string;
+  updatedAt: string;
+  demoOnly: boolean;
+}
+
 export interface EmperorProfile {
   id: string;
   name: string;
@@ -207,6 +338,56 @@ export interface LeadItem {
   updatedAt: string;
 }
 
+export interface ControversialClaim {
+  id: string;
+  title: string;
+  rawClaimText: string;
+  normalizedClaim: string;
+  topic: Topic | "未分类";
+  sourceLeadId: string;
+  sourceUrl: string;
+  sourceKind: AlternativeLeadKind;
+  platform: LeadItem["platform"];
+  speculativeSourceIds: string[];
+  relatedHistoricalClaimIds: string[];
+  status: ControversialClaimStatus;
+  riskLevel: RiskLevel;
+  aiDecompositionNote: string;
+  requiredEvidenceTasks: string[];
+  reviewerNote: string;
+  createdAt: string;
+  updatedAt: string;
+  demoOnly: boolean;
+}
+
+export interface EvidenceGapTask {
+  id: string;
+  controversialClaimId: string;
+  title: string;
+  taskType: "补原始材料" | "补实物证据" | "补外部记录" | "补现代研究" | "补引用信息" | "补授权说明";
+  requiredSourceLayers: SourceLayer[];
+  description: string;
+  priority: "low" | "medium" | "high";
+  status: EvidenceTaskStatus;
+  assignedTo: string;
+  dueNote: string;
+  createdAt: string;
+  updatedAt: string;
+  demoOnly: boolean;
+}
+
+export interface AlternativeNarrativeRanking {
+  controversialClaimId: string;
+  networkControversyScore: number;
+  evidenceGapScore: number;
+  leadSignalCount: number;
+  platformDiversityScore: number;
+  missingEvidenceTaskCount: number;
+  highPriorityTaskCount: number;
+  lastCalculatedAt: string;
+  demoOnly?: boolean;
+}
+
 export interface ImportBatch {
   id: string;
   importType: ImportType;
@@ -222,6 +403,18 @@ export interface ImportBatch {
   status: ImportStatus;
   rawFilePath: string;
   resultFilePath: string;
+  demoOnly?: boolean;
+}
+
+export interface ImportRowError {
+  id: string;
+  importBatchId: string;
+  rowNumber: number;
+  entityType: ImportEntityType;
+  rawPayload: Record<string, unknown>;
+  message: string;
+  severity: "warning" | "error";
+  createdAt: string;
   demoOnly?: boolean;
 }
 

@@ -1,0 +1,24 @@
+{
+  "generatedAt": "2026-06-07T05:32:37.446Z",
+  "counts": {
+    "sources.json": 6,
+    "persons.json": 1,
+    "territory.json": 1,
+    "artifacts.json": 1,
+    "text_chunks.json": 120,
+    "leads.json": 60,
+    "claims.json": 60,
+    "evidence_candidates.json": 0,
+    "research_tasks.json": 120
+  },
+  "warnings": [
+    {
+      "id": "missing-local-historical-text",
+      "sourceId": "local-historical-text",
+      "filePath": "data-seed\\raw\\historical-text\\local-historical-text.page-list.csv",
+      "severity": "warning",
+      "message": "Raw source is not available. Seed builder records this as missing data instead of fabricating records."
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,24 @@
+[
+  {
+    "id": "chgis-manifest-001",
+    "importBatchId": "batch-seed-chgis",
+    "sourceId": "seed-source-chgis",
+    "datasetName": "CHGIS Ming place and boundary files",
+    "filePathOrUrl": "data-seed/raw/chgis/put-real-chgis-geojson-here.geojson",
+    "format": "GeoJSON",
+    "title": "CHGIS Ming place and boundary files",
+    "controlType": "",
+    "sourceLayer": "C",
+    "citation": "CHGIS citation required",
+    "licenseNote": "User must copy CHGIS license here before import",
+    "reviewStatus": "pending_review",
+    "suggestedLinks": [],
+    "validationWarnings": [
+      "controlType 缺失，不能生成正式 Territory。"
+    ],
+    "notes": "Placeholder manifest only; missing file should generate report",
+    "demoOnly": true,
+    "createdAt": "2026-06-07T05:32:37.398Z",
+    "updatedAt": "2026-06-07T05:32:37.398Z"
+  }
+]

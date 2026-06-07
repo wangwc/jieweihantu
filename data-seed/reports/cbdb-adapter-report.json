@@ -1,0 +1,42 @@
+{
+  "sourceRecords": [
+    {
+      "id": "seed-source-cbdb",
+      "title": "CBDB",
+      "sourceType": "open_data",
+      "sourceLayer": "C",
+      "institution": "CBDB",
+      "author": "",
+      "dynastyOrDate": "seed",
+      "url": "",
+      "accessMethod": "cbdb",
+      "licenseNote": "User must provide license text from the downloaded CBDB export.",
+      "citation": "CBDB export citation required before promotion.",
+      "citationFormat": "CBDB export citation required before promotion.",
+      "reliabilityNote": "No emperor assessment can be generated from this source.",
+      "allowedUsage": "Person, office and relationship candidates only.",
+      "importMethod": "open-data",
+      "reviewRequired": true,
+      "status": "pending",
+      "sampleMediaAssets": [],
+      "demoOnly": true,
+      "createdAt": "2026-06-07T05:32:37.262Z",
+      "updatedAt": "2026-06-07T05:32:37.262Z"
+    }
+  ],
+  "normalizedRecords": [
+    {
+      "id": "cbdb-manifest-001",
+      "datasetName": "CBDB Ming person export",
+      "filePathOrUrl": "data-seed/raw/cbdb/put-real-cbdb-export-here.csv",
+      "format": "CSV",
+      "sourceLayer": "C",
+      "licenseNote": "User must copy CBDB license here before import",
+      "citationFormat": "CBDB export citation required",
+      "enabled": "true",
+      "notes": "Placeholder manifest only; missing file should generate report"
+    }
+  ],
+  "warnings": [],
+  "errors": []
+}

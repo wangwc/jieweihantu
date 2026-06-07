@@ -1,0 +1,2 @@
+id,title,artifactType,institution,dynastyOrDate,sourceId,url,imageUrl,citation,licenseNote,demoOnly
+artifact-demo-import-001,舆图图像资料占位,舆图,示例博物馆,明代或近明,source-002,https://example.org/museum/map,https://placehold.co/640x360/DDD2C3/1F1B16,示例引用：待补馆藏引用,示例许可说明：不伪造馆藏编号,true

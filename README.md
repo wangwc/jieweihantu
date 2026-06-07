@@ -50,3 +50,34 @@ npm run import:evidence -- templates/evidence.template.csv
 2. 每个主张补 3-5 条 S/A/B/C 证据。
 3. 建立 SourceRegistry 白名单。
 4. 再接入 CHGIS、CBDB、博物馆开放数据和其他开放资料。
+
+## Alternative Narrative Framework
+
+争议叙事导入只生成待核验主张和待补证据任务，不直接进入事实数据库。
+
+```bash
+npm run import:alternative-leads -- --file=templates/alternative-leads.template.txt --kind=article --platform=公众号 --url=https://example.org/article
+npm run rankings:alternative
+```
+
+需要写入本地 JSON 时显式增加 `--write`。所有争议主张默认状态为“待核验”，必须经过 Evidence 审核流程。
+
+## 第三阶段 Staging-First 导入
+
+所有外部资料先进 staging，不直接进入正式事实库。
+
+```bash
+npm run import:historical-text -- --file=templates/alternative-leads.template.txt --source-title=示例史料 --source-type=明代实录
+npm run import:controversial-leads:v3 -- --file=templates/alternative-leads.template.txt --kind=article --platform=公众号 --url=https://example.org/article
+npm run import:chgis -- --file=templates/import/chgis-territory.template.csv
+npm run import:cbdb -- --file=templates/import/cbdb-persons.template.csv
+npm run import:museum-artifacts -- --file=templates/import/museum-artifacts.template.csv
+npm run rankings:staging
+```
+
+审核和提升示例：
+
+```bash
+npm run review:action -- --action=approve --id=stg-textchunk-demo-001
+npm run review:action -- --action=promoteTextChunkToEvidence --id=stg-textchunk-demo-001 --claim-id=claim-wanli-court --source-id=source-001 --citation=示例引用 --license=示例许可
+```

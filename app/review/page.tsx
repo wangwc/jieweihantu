@@ -1,6 +1,6 @@
 import { DemoBanner } from "@/components/demo-banner";
 import { LayerBadge } from "@/components/layer-badge";
-import { evidence, leads } from "@/lib/data";
+import { controversialClaims, evidence, evidenceTasks, leads } from "@/lib/data";
 
 export default function ReviewPage() {
   const pendingEvidence = evidence.filter((item) => item.verificationStatus === "未审核" || item.verificationStatus === "初审");
@@ -8,12 +8,16 @@ export default function ReviewPage() {
   const missingCitation = evidence.filter((item) => !item.citation || item.citation.includes("待补"));
   const missingLicense = evidence.filter((item) => !item.licenseNote);
   const riskyEvidence = evidence.filter((item) => ["D", "Q", "X"].includes(item.sourceLayer));
+  const controversialPending = controversialClaims.filter((claim) => claim.status === "待核验");
+  const gapTasks = evidenceTasks.filter((task) => task.status === "待补资料");
   const cards = [
     ["待审核证据", pendingEvidence.length],
     ["待拆解线索", pendingLeads.length],
     ["待补 citation", missingCitation.length],
     ["待补 license", missingLicense.length],
-    ["D/X/Q 风险资料", riskyEvidence.length]
+    ["D/X/Q 风险资料", riskyEvidence.length],
+    ["争议主张待核验", controversialPending.length],
+    ["待补证据任务", gapTasks.length]
   ];
 
   return (

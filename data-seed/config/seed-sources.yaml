@@ -1,0 +1,85 @@
+sources:
+  - id: chgis
+    name: CHGIS
+    enabled: true
+    type: open_data
+    layer: C
+    adapter: chgis
+    input: raw/open-data/chgis-files.manifest.csv
+    output: normalized/territory.json
+    licenseNote: User must provide license text from the downloaded CHGIS package.
+    citationFormat: CHGIS dataset citation required before promotion.
+    allowedUsage: Open data manifest only; no territorial conclusions.
+    rateLimit: local-only
+    requiresManualReview: true
+    notes: Territory and place candidates only.
+  - id: cbdb
+    name: CBDB
+    enabled: true
+    type: open_data
+    layer: C
+    adapter: cbdb
+    input: raw/open-data/cbdb-files.manifest.csv
+    output: normalized/persons.json
+    licenseNote: User must provide license text from the downloaded CBDB export.
+    citationFormat: CBDB export citation required before promotion.
+    allowedUsage: Person, office and relationship candidates only.
+    rateLimit: local-only
+    requiresManualReview: true
+    notes: No emperor assessment can be generated from this source.
+  - id: museum-open-data
+    name: Museum Open Data
+    enabled: true
+    type: museum
+    layer: A
+    adapter: museum
+    input: raw/open-data/museum-files.manifest.csv
+    output: normalized/artifacts.json
+    licenseNote: Keep institution-specific license or access statement for every artifact.
+    citationFormat: Museum collection citation and URL required.
+    allowedUsage: Artifact metadata only; do not download restricted images.
+    rateLimit: local-only
+    requiresManualReview: true
+    notes: Preserve collectionUrl and licenseNote.
+  - id: mediawiki-historical-text
+    name: Wikisource / MediaWiki Historical Text
+    enabled: true
+    type: historical_text
+    layer: S
+    adapter: mediawiki-text
+    input: raw/historical-text/historical-text.page-list.csv
+    output: normalized/text_chunks.json
+    licenseNote: Public text license must be verified per page before promotion.
+    citationFormat: Source title, page title, URL, access date.
+    allowedUsage: Page list and TextChunk candidates only.
+    rateLimit: 1 request per second when --allow-network is used.
+    requiresManualReview: true
+    notes: TextChunk is not Evidence.
+  - id: local-historical-text
+    name: Local Historical Text
+    enabled: true
+    type: local_file
+    layer: S
+    adapter: local-file
+    input: raw/historical-text/local-historical-text.page-list.csv
+    output: normalized/text_chunks.json
+    licenseNote: Local files must keep source license or access note.
+    citationFormat: Local file path plus source citation.
+    allowedUsage: Manually downloaded TXT or Markdown only.
+    rateLimit: local-only
+    requiresManualReview: true
+    notes: Missing full text remains pending_review.
+  - id: controversial-url-list
+    name: Controversial Claims URL List
+    enabled: true
+    type: controversial_claims
+    layer: D
+    adapter: controversial-url-list
+    input: raw/controversial/controversial-claims.seed.csv
+    output: normalized/claims.json
+    licenseNote: URL metadata and manual summary only; platform content is not high-trust evidence.
+    citationFormat: Platform, title, URL, captured date.
+    allowedUsage: Lead and controversial claim candidates only.
+    rateLimit: local-only
+    requiresManualReview: true
+    notes: Defaults to controversial true and pending_review.
